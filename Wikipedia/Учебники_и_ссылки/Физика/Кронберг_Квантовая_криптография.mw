@@ -536,6 +536,58 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L122" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">4. \320\224\321\200\321\203\320\263\320\270\320\265 \320\277\321\200\320\276\321\202\320\276\320\272\320\276\320\273\321\213 \320\272\320\262\320\260\320\275\321\202\320\276\320\262\320\276\320\271 \320\272\321\200\320\270\320\277\321\202\320\276\320\263\321\200\320\260\321\204\320\270\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L123" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/B92" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 B92</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L124" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SARG04" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 SARG04</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L125" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">PNS-\320\260\321\202\320\260\320\272\320\260</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L126" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\236\320\277\320\265\321\200\320\260\321\206\320\270\321\217 \321\200\320\260\320\267\320\264\320\265\320\273\320\265\320\275\320\270\321\217 \321\204\320\276\321\202\320\276\320\275\320\276\320\262</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L127" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/BB84#\320\232\321\200\320\270\320\277\321\202\320\276\320\260\320\275\320\260\320\273\320\270\320\267" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\321\202\320\260\320\272\320\260 \320\275\320\260 \320\277\321\200\320\276\321\202\320\276\320\272\320\276\320\273 BB84</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L128" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/B92#\320\232\321\200\320\270\320\277\321\202\320\276\320\260\320\275\320\260\320\273\320\270\320\267" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\321\202\320\260\320\272\320\260 \320\275\320\260 \320\277\321\200\320\276\321\202\320\276\320\272\320\276\320\273 B92</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L129" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\232\321\200\320\270\321\202\320\270\321\207\320\265\321\201\320\272\320\260\321\217 \320\264\320\273\320\270\320\275\320\260 \320\273\320\270\320\275\320\270\320\270 \321\201\320\262\321\217\320\267\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L130" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\232\320\262\320\260\320\275\321\202\320\276\320\262\321\213\320\271_\320\277\321\200\320\276\321\202\320\276\320\272\320\276\320\273_4%2B2" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 4+2</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L131" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\232\320\262\320\260\320\275\321\202\320\276\320\262\321\213\320\271_\320\277\321\200\320\276\321\202\320\276\320\272\320\276\320\273_4%2B2#\320\232\321\200\320\270\320\277\321\202\320\276\321\201\321\202\320\276\320\271\320\272\320\276\321\201\321\202\321\214_\320\270_\320\262\320\276\320\267\320\274\320\276\320\266\320\275\320\276\321\201\321\202\321\214_\320\262\320\267\320\273\320\276\320\274\320\260_4+2" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\232\321\200\320\270\320\277\321\202\320\276\320\260\320\275\320\260\320\273\320\270\320\267 4+2</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L133" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SARG04" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 SARG04</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L134" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L132" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L121" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
