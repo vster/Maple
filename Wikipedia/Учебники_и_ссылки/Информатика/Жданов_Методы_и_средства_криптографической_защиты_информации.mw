@@ -394,6 +394,22 @@ Register)</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L86" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\261\321\201\320\276\320\273\321\216\321\202\320\275\320\276_\321\201\321\202\320\276\320\271\320\272\320\270\320\271_\321\210\320\270\321\204\321\200" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\276\320\262\320\265\321\200\321\210\320\265\320\275\320\275\321\213\320\265 \321\210\320\270\321\204\321\200\321\213 \320\277\320\276 \320\250\320\265\320\275\320\275\320\276\320\275\321\203</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L87" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\261\321\201\320\276\320\273\321\216\321\202\320\275\320\276_\321\201\321\202\320\276\320\271\320\272\320\270\320\271_\321\210\320\270\321\204\321\200" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\261\321\201\320\276\320\273\321\216\321\202\320\275\320\276 \321\201\321\202\320\276\320\271\320\272\320\270\320\271 \321\210\320\270\321\204\321\200</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L88" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\242\320\265\320\276\321\200\320\265\320\274\320\260 \320\255\321\200\320\275\320\265\321\201\321\202\320\276 \320\247\320\265\320\267\320\260\321\200\320\276</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L89" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\255\320\272\321\201\321\202\321\200\320\265\320\274\320\260\320\273\321\214\320\275\321\213\320\271 \321\210\320\270\321\204\321\200</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L90" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
