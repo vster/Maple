@@ -788,5 +788,41 @@
 <Group view="presentation" inline-output="false" labelreference="L207" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L208" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Font bold="true">13. </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\255\320\273\320\265\320\272\321\202\321\200\320\276\320\275\320\275\320\260\321\217_\320\277\320\276\320\264\320\277\320\270\321\201\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\246\320\270\321\204\321\200\320\276\320\262\320\260\321\217 \320\277\320\276\320\264\320\277\320\270\321\201\321\214</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L209" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/RSA" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\321\205\320\265\320\274\320\260 RSA</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L212" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\321\205\320\265\320\274\320\260_\320\255\320\273\321\214-\320\223\320\260\320\274\320\260\320\273\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\241\321\205\320\265\320\274\320\260 \320\255\320\273\321\214-\320\223\320\260\320\274\320\260\320\273\321\217</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L213" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%A8%D0%BD%D0%BE%D1%80%D1%80%D0%B0" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\321\205\320\265\320\274\320\260 \320\250\320\275\320\276\321\200\321\200\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L214" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Digital_Signature_Standard" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\321\202\320\260\320\275\320\264\320\260\321\200\321\202 \321\206\320\270\321\204\321\200\320\276\320\262\320\276\320\271 \320\277\320\276\320\264\320\277\320\270\321\201\320\270 (DSS)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L215" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/DSA" hyperlink="true"><Font style="Hyperlink">Digital Signature Algorithm (DSA)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L211" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">C\321\205\320\265\320\274\320\260 \321\206\320\270\321\204\321\200\320\276\320\262\320\276\320\271 \320\277\320\276\320\264\320\277\320\270\321\201\320\270 \321\215\320\273\320\273\320\270\320\277\321\202\320\270\321\207\320\265\321\201\320\272\320\276\320\271 \320\272\321\200\320\270\320\262\320\276\320\271 (ECDSS)</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L210" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/ECDSA" hyperlink="true"><Font style="Hyperlink">ECDSA (Elliptic Curve Digital Signature Algorithm)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L216" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
