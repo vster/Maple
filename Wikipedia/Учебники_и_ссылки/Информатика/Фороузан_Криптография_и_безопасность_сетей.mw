@@ -864,5 +864,57 @@
 <Group view="presentation" inline-output="false" labelreference="L228" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L229" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Font bold="true">15. </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\243\320\277\321\200\320\260\320\262\320\273\320\265\320\275\320\270\320\265_\320\272\320\273\321\216\321\207\320\260\320\274\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\243\320\277\321\200\320\260\320\262\320\273\320\265\320\275\320\270\320\265 \320\272\320\273\321\216\321\207\320\260\320\274\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L233" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\321\200\320\260\321\201\320\277\321\200\320\265\320\264\320\265\320\273\320\265\320\275\320\270\321\217_\320\272\320\273\321\216\321\207\320\265\320\271" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 \321\200\320\260\321\201\320\277\321\200\320\265\320\264\320\265\320\273\320\265\320\275\320\270\321\217 \320\272\320\273\321\216\321\207\320\265\320\271</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L247" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Kerberos#Key_Distribution_Center,_KDC_(\320\270\320\273\320\270_TGS_\342\200\224_ticket_granting_server)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\246\320\265\320\275\321\202\321\200 \321\200\320\260\321\201\320\277\321\200\320\265\320\264\320\265\320\273\320\265\320\275\320\270\321\217 \320\272\320\273\321\216\321\207\320\265\320\271 (KDC)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L230" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\265\320\260\320\275\321\201\320\276\320\262\321\213\320\271_\320\272\320\273\321\216\321\207" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\273\321\216\321\207\320\270 \321\201\320\265\320\260\320\275\321\201\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L234" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9#%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%9D%D0%B8%D0%B4%D1%85%D0%B5%D0%BC%D0%B0-%D0%A8%D1%80%D1%91%D0%B4%D0%B5%D1%80%D0%B0" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 \320\235\320\270\320\270\320\264\320\276\320\274\320\260-\320\250\321\200\320\265\320\264\320\265\321\200\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L235" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\320\236\321\202\320\262\320\265\321\217_\342\200\224_\320\240\320\270\320\270\321\201\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 \320\236\321\202\320\262\320\265\321\217-\320\240\320\270\321\201\321\201\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L231" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Kerberos" hyperlink="true"><Font style="Hyperlink">Kerberos</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L238" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\320\224\320\270\321\204\321\204\320\270_\342\200\224_\320\245\320\265\320\273\320\273\320\274\320\260\320\275\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 \320\224\320\270\321\204\321\204\320\270-\320\245\320\265\320\273\320\273\320\274\320\260\320\275\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L240" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\232\321\200\320\270\320\277\321\202\320\276\321\201\320\270\321\201\321\202\320\265\320\274\320\260_\321\201_\320\276\321\202\320\272\321\200\321\213\321\202\321\213\320\274_\320\272\320\273\321\216\321\207\320\276\320\274" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\232\321\200\320\270\320\277\321\202\320\276\321\201\320\270\321\201\321\202\320\265\320\274\320\260 \321\201 \320\276\321\202\320\272\321\200\321\213\321\202\321\213\320\274 \320\272\320\273\321\216\321\207\320\276\320\274</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L242" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\246\320\265\320\275\321\202\321\200_\321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\206\320\270\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\246\320\265\320\275\321\202\321\200 \321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L243" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/X.509" hyperlink="true"><Font style="Hyperlink">X.509</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L246" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\230\320\275\321\204\321\200\320\260\321\201\321\202\321\200\321\203\320\272\321\202\321\203\321\200\320\260_\320\276\321\202\320\272\321\200\321\213\321\202\321\213\321\205_\320\272\320\273\321\216\321\207\320\265\320\271" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\230\320\275\321\204\321\200\320\260\321\201\321\202\321\200\321\203\320\272\321\202\321\203\321\200\320\260 \320\276\321\202\320\272\321\200\321\213\321\202\321\213\321\205 \320\272\320\273\321\216\321\207\320\265\320\271 (PKI)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L232" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
