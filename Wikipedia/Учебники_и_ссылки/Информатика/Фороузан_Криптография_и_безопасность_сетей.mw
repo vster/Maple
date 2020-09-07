@@ -918,7 +918,7 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L248" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">16. \320\221\320\265\320\267\320\276\320\277\320\260\321\201\320\275\320\276\321\201\321\202\321\214 \320\275\320\260 \320\277\321\200\320\270\320\272\320\273\320\260\320\264\320\275\320\276\320\274 \321\203\321\200\320\276\320\262\320\275\320\265: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/PGP" hyperlink="true"><Font style="Hyperlink" bold="true">PGP</Font></Hyperlink><Font bold="true" encoding="UTF-8"> \320\270 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/S/MIME" hyperlink="true"><Font style="Hyperlink" bold="true">S/MIME</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">16. \320\221\320\265\320\267\320\276\320\277\320\260\321\201\320\275\320\276\321\201\321\202\321\214 \320\275\320\260 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273\321\213_\320\277\321\200\320\270\320\272\320\273\320\260\320\264\320\275\320\276\320\263\320\276_\321\203\321\200\320\276\320\262\320\275\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\277\321\200\320\270\320\272\320\273\320\260\320\264\320\275\320\276\320\274 \321\203\321\200\320\276\320\262\320\275\320\265</Font></Hyperlink><Font bold="true">: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/PGP" hyperlink="true"><Font style="Hyperlink" bold="true">PGP</Font></Hyperlink><Font bold="true" encoding="UTF-8"> \320\270 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/S/MIME" hyperlink="true"><Font style="Hyperlink" bold="true">S/MIME</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L249" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -954,6 +954,50 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L263" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L264" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Font bold="true" encoding="UTF-8">17. \320\221\320\265\320\267\320\276\320\277\320\260\321\201\320\275\320\276\321\201\321\202\321\214 \320\275\320\260 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\242\321\200\320\260\320\275\321\201\320\277\320\276\321\200\321\202\320\275\321\213\320\271_\321\203\321\200\320\276\320\262\320\265\320\275\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\321\202\321\200\320\260\320\275\321\201\320\277\320\276\321\200\321\202\320\275\320\276\320\274 \321\203\321\200\320\276\320\262\320\275\320\265</Font></Hyperlink><Font bold="true">: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SSL" hyperlink="true"><Font style="Hyperlink" bold="true">SSL</Font></Hyperlink><Font bold="true" encoding="UTF-8"> \320\270 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/TLS" hyperlink="true"><Font style="Hyperlink" bold="true">TLS</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L267" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SSL" hyperlink="true"><Font style="Hyperlink" bold="true" italic="true">SSL</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L265" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\220\320\273\320\263\320\276\321\200\320\270\321\202\320\274\321\213 \321\201\320\274\320\265\320\275\321\213 \320\272\320\273\321\216\321\207\320\265\320\271: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/RSA" hyperlink="true"><Font style="Hyperlink">RSA</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\320\224\320\270\321\204\321\204\320\270_\342\200\224_\320\245\320\265\320\273\320\273\320\274\320\260\320\275\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\270\321\204\321\204\320\270-\320\245\320\265\320\273\320\273\320\274\320\260\320\275 (DH)</Font></Hyperlink>, Fortezza</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L266" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\220\320\273\320\263\320\276\321\200\320\270\321\202\320\274\321\213 \321\210\320\270\321\204\321\200\320\276\320\262\320\260\320\275\320\270\321\217/\320\264\320\265\321\210\320\270\321\204\321\200\320\276\320\262\320\260\320\275\320\270\321\217: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/RC4" hyperlink="true"><Font style="Hyperlink">RC4</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/RC2" hyperlink="true"><Font style="Hyperlink">RC2</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/DES" hyperlink="true"><Font style="Hyperlink">DES</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/IDEA" hyperlink="true"><Font style="Hyperlink">IDEA</Font></Hyperlink>, Fortezza</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L268" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\220\320\273\320\263\320\276\321\200\320\270\321\202\320\274\321\213 \321\205\321\215\321\210\320\270\321\200\320\276\320\262\320\260\320\275\320\270\321\217: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/MD5" hyperlink="true"><Font style="Hyperlink">MD5</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/SHA-1" hyperlink="true"><Font style="Hyperlink">SHA-1</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L269" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/HMAC" hyperlink="true"><Font style="Hyperlink">HMAC</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L274" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/TLS" hyperlink="true"><Font style="Hyperlink" bold="true" italic="true">TLS</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L276" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\236\320\261\320\274\320\265\320\275 \320\272\320\273\321\216\321\207\320\260\320\274\320\270:  </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/RSA" hyperlink="true"><Font style="Hyperlink">RSA</Font></Hyperlink><Font encoding="UTF-8"> (\320\260\321\201\320\270\320\274\320\274\320\265\321\202\321\200\320\270\321\207\320\275\321\213\320\271 \321\210\320\270\321\204\321\200), </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\320\224\320\270\321\204\321\204\320\270_\342\200\224_\320\245\320\265\320\273\320\273\320\274\320\260\320\275\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">Diffie-Hellman</Font></Hyperlink><Font encoding="UTF-8"> (\320\261\320\265\320\267\320\276\320\277\320\260\321\201\320\275\321\213\320\271 \320\276\320\261\320\274\320\265\320\275 \320\272\320\273\321\216\321\207\320\260\320\274\320\270), </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/DSA" hyperlink="true"><Font style="Hyperlink">DSA</Font></Hyperlink><Font encoding="UTF-8"> (\320\260\320\273\320\263\320\276\321\200\320\270\321\202\320\274 \321\206\320\270\321\204\321\200\320\276\320\262\320\276\320\271 \320\277\320\276\320\264\320\277\320\270\321\201\320\270), </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/ECDSA" hyperlink="true"><Font style="Hyperlink">ECDSA</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L270" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\241\320\270\320\274\320\274\320\265\321\202\321\200\320\270\321\207\320\275\320\276\320\265 \321\210\320\270\321\204\321\200\320\276\320\262\320\260\320\275\320\270\320\265: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/RC4" hyperlink="true"><Font style="Hyperlink">RC4</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/IDEA" hyperlink="true"><Font style="Hyperlink">IDEA</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/Triple_DES" hyperlink="true"><Font style="Hyperlink">Triple DES</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/SEED" hyperlink="true"><Font style="Hyperlink">SEED</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/Camellia_(\320\260\320\273\320\263\320\276\321\200\320\270\321\202\320\274)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">Camellia</Font></Hyperlink><Font encoding="UTF-8"> \320\270\320\273\320\270 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Advanced_Encryption_Standard" hyperlink="true"><Font style="Hyperlink">AES</Font></Hyperlink>;</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L271" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\245\320\265\321\210-\321\204\321\203\320\275\320\272\321\206\320\270\320\270: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/MD5" hyperlink="true"><Font style="Hyperlink">MD5</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/SHA-2" hyperlink="true"><Font style="Hyperlink">SHA, SHA-256/384</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L277" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
