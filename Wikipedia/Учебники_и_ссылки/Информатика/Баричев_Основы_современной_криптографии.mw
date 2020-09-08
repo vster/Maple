@@ -164,6 +164,10 @@
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\236\320\241\320\242_28147-89" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\236\320\241\320\242 28147-89</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L70" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/%D0%93%D0%9E%D0%A1%D0%A2_34.12-2018" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\223\320\236\320\241\320\242 34.12-2018</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L21" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SAFER" hyperlink="true"><Font style="Hyperlink">SAFER</Font></Hyperlink></Text-field>
 </Input>
