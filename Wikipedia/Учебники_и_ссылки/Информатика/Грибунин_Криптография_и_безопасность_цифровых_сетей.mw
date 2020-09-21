@@ -617,6 +617,62 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L151" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" size="14" layout="Normal"><Font size="14" bold="true" encoding="UTF-8">\320\247\320\260\321\201\321\202\321\214 III. </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\230\320\275\321\204\321\200\320\260\321\201\321\202\321\200\321\203\320\272\321\202\321\203\321\200\320\260_\320\276\321\202\320\272\321\200\321\213\321\202\321\213\321\205_\320\272\320\273\321\216\321\207\320\265\320\271" hyperlink="true" encoding="UTF-8"><Font size="14" style="Hyperlink" bold="true" encoding="UTF-8">\320\230\320\275\321\204\321\200\320\260\321\201\321\202\321\200\321\203\320\272\321\202\321\203\321\200\320\260 \320\276\321\202\320\272\321\200\321\213\321\202\321\213\321\205 \320\272\320\273\321\216\321\207\320\265\320\271 (\320\230\320\236\320\232 - PKI)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L163" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">10. \320\222\320\262\320\265\320\264\320\265\320\275\320\270\320\265 \320\262 \320\270\320\275\321\204\321\200\320\260\321\201\321\202\321\200\321\203\320\272\321\202\321\203\321\200\321\203 \320\276\321\202\320\272\321\200\321\213\321\202\321\213\321\205 \320\272\320\273\321\216\321\207\320\265\320\271</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L164" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\202_\320\276\321\202\320\272\321\200\321\213\321\202\320\276\320\263\320\276_\320\272\320\273\321\216\321\207\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\202 \320\276\321\202\320\272\321\200\321\213\321\202\320\276\320\263\320\276 \320\272\320\273\321\216\321\207\320\260 (Public Key Certificate)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L162" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\230\320\236\320\232 \320\275\320\265\320\276\320\261\321\205\320\276\320\264\320\270\320\274\321\217 \320\264\320\273\321\217 \321\200\320\260\320\261\320\276\321\202\321\213: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/S/MIME" hyperlink="true"><Font style="Hyperlink">S/MIME</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/SSL" hyperlink="true"><Font style="Hyperlink">SSL</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/TLS" hyperlink="true"><Font style="Hyperlink">TLS</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/IPsec" hyperlink="true"><Font style="Hyperlink">IPSec</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L165" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\246\320\270\321\204\321\200\320\276\320\262\320\276\320\271_\321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\202" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\246\320\270\321\204\321\200\320\276\320\262\320\276\320\271 \321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\202</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L166" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Certificate_Revocation_List" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\277\320\270\321\201\320\276\320\272 \320\276\321\202\320\276\320\267\320\262\320\260\320\275\320\275\321\213\321\205 \321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\202\320\276\320\262 (\320\241\320\236\320\241) - Certificate Revocation List (CRL)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L167" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\243\320\264\320\276\321\201\321\202\320\276\320\262\320\265\321\200\321\217\321\216\321\211\320\270\320\271 \321\206\320\265\320\275\321\202\321\200 (\320\243\320\246)</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L168" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\246\320\265\320\275\321\202\321\200_\321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\206\320\270\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\246\320\265\320\275\321\202\321\200 \321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\206\320\270\320\270 (\320\246\320\241) - Certification authority (CA)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L169" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\255\320\273\320\265\320\272\321\202\321\200\320\276\320\275\320\275\320\260\321\217_\320\277\320\276\320\264\320\277\320\270\321\201\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\255\320\246\320\237</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L170" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L171" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">11. \320\241\321\202\321\200\321\203\320\272\321\202\321\203\321\200\320\260 \320\270 \320\276\321\201\320\275\320\276\320\262\320\275\321\213\320\265 \321\215\320\273\320\265\320\274\320\265\320\275\321\202\321\213 \320\260\321\200\321\205\320\270\321\202\320\265\320\272\321\202\321\203\321\200\321\213 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\230\320\275\321\204\321\200\320\260\321\201\321\202\321\200\321\203\320\272\321\202\321\203\321\200\320\260_\320\276\321\202\320\272\321\200\321\213\321\202\321\213\321\205_\320\272\320\273\321\216\321\207\320\265\320\271" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\230\320\236\320\232</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L172" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/X.500" hyperlink="true"><Font style="Hyperlink">X.500</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L177" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/LDAP" hyperlink="true"><Font style="Hyperlink">LDAP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L178" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/OCSP" hyperlink="true"><Font style="Hyperlink">OCSP</Font></Hyperlink><Font encoding="UTF-8"> - \320\277\321\200\320\276\320\262\320\265\321\200\320\272\320\260 \321\201\321\202\320\260\321\202\321\203\321\201\320\260 \321\201\320\265\321\200\321\202\320\270\321\204\320\270\320\272\320\260\321\202\320\260, \320\260\320\273\321\214\321\202\320\265\321\200\320\275\320\260\321\202\320\270\320\262\320\260 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Certificate_Revocation_List" hyperlink="true"><Font style="Hyperlink">CRL</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L176" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
