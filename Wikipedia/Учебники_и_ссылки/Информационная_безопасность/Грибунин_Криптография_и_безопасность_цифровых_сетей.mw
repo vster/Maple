@@ -808,7 +808,79 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L220" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" size="14" layout="Normal"><Font size="14" bold="true" encoding="UTF-8">\320\247\320\260\321\201\321\202\321\214 IV. </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/VPN" hyperlink="true"><Font size="14" style="Hyperlink" bold="true" encoding="UTF-8">\320\222\320\270\321\200\321\202\321\203\320\260\320\273\321\214\320\275\321\213\320\265 \321\207\320\260\321\201\321\202\320\275\321\213\320\265 \321\201\320\265\321\202\320\270 (VPN)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L223" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">16. \320\237\321\200\320\270\320\275\321\206\320\270\320\277\321\213 \320\277\320\276\321\201\321\202\321\200\320\276\320\265\320\275\320\270\321\217 VPN</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L222" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Frame_relay" hyperlink="true"><Font style="Hyperlink">Frame Relay</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L221" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273\321\213 \320\264\320\273\321\217 VPN: </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IPsec" hyperlink="true"><Font style="Hyperlink">IPSec</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/PPTP" hyperlink="true"><Font style="Hyperlink">PPTP</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/Layer_2_Forwarding_Protocol" hyperlink="true"><Font style="Hyperlink">L2F</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/L2TP" hyperlink="true"><Font style="Hyperlink">L2TP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L226" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IKE" hyperlink="true"><Font style="Hyperlink">IKE</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/ISAKMP" hyperlink="true"><Font style="Hyperlink">ISAKMP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L224" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Check_Point" hyperlink="true"><Font style="Hyperlink">Check Point Software Technologies</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L225" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Cisco" hyperlink="true"><Font style="Hyperlink">Cisco Systems</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L216" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/QoS" hyperlink="true"><Font style="Hyperlink">QoS</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L227" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">Digital AltaVista Tunnel 97</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L228" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L229" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">17. \320\240\320\265\321\210\320\265\320\275\320\270\321\217 \320\277\320\276 VPN \321\200\320\260\320\267\320\273\320\270\321\207\320\275\321\213\321\205 \321\204\320\270\321\200\320\274</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L230" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://elvis.ru" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\236\320\220\320\236 &quot;\320\255\320\273\320\262\320\270\321\201-\320\237\320\273\321\216\321\201&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L231" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Cisco_PIX" hyperlink="true"><Font style="Hyperlink">Cisco PIX Firewall</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L232" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.cnews.ru/reviews/free/oldcom/security/checkpoint/firewall1.html" hyperlink="true"><Font style="Hyperlink">Check Point FireWall-1</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L233" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://elvis.ru/products/products_of_its_own_design/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\255\320\233\320\222\320\230\320\241-\320\237\320\233\320\256\320\241 \320\227\320\220\320\241\320\242\320\220\320\222\320\220</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L219" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.infosec.ru" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\230\320\275\321\204\320\276\321\200\320\274\320\267\320\260\321\211\320\270\321\202\320\260</Font></Hyperlink><Font encoding="UTF-8"> \320\232\320\276\320\275\321\202\320\270\320\275\320\265\320\275\321\202-\320\232</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L234" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://infotecs.ru" hyperlink="true"><Font style="Hyperlink">InfoTeCS</Font></Hyperlink> ViPNet</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L235" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\242\321\203\320\275\320\275\320\265\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\270\320\265_(\320\272\320\276\320\274\320\277\321\214\321\216\321\202\320\265\321\200\320\275\321\213\320\265_\321\201\320\265\321\202\320\270)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\242\321\203\320\275\320\275\320\265\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\270\320\265</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L236" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
