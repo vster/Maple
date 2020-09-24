@@ -881,6 +881,14 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L236" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.checkpoint.com/ru/" hyperlink="true"><Font style="Hyperlink">Check Point</Font></Hyperlink> VPN-1 Edge</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L239" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://stcnet.ru" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\223\320\243\320\237 \320\235\320\242\320\246 &quot;\320\220\321\202\320\273\320\260\321\201&quot;</Font></Hyperlink> <Hyperlink linktarget="http://stcnet.ru/products_iid_31.htm" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">(\320\237\320\220\320\232) \302\253\320\220\321\202\320\273\320\270\320\272\321\201-VPN\302\273</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L238" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
