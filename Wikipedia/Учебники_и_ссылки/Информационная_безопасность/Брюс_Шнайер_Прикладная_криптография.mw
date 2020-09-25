@@ -668,7 +668,63 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L332" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">13. \320\224\321\200\321\203\320\263\320\270\320\265 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\221\320\273\320\276\321\207\320\275\321\213\320\271_\321\210\320\270\321\204\321\200" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\261\320\273\320\276\321\207\320\275\321\213\320\265 \321\210\320\270\321\204\321\200\321\213</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L333" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Lucifer_(\320\272\321\200\320\270\320\277\321\202\320\276\320\263\321\200\320\260\321\204\320\270\321\217)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">Lucifer</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L334" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/MADRYGA" hyperlink="true"><Font style="Hyperlink">MADRYGA</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L335" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/NewDES" hyperlink="true"><Font style="Hyperlink">NewDES</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L336" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/FEAL" hyperlink="true"><Font style="Hyperlink">FEAL</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L337" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/REDOC" hyperlink="true"><Font style="Hyperlink">REDOC</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L111" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/LOKI97" hyperlink="true"><Font style="Hyperlink">LOKI</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L338" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Khufu" hyperlink="true"><Font style="Hyperlink">Khufu</Font></Hyperlink><Font encoding="UTF-8"> \320\270 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Khafre" hyperlink="true"><Font style="Hyperlink">Khafre</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L339" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/RC2" hyperlink="true"><Font style="Hyperlink">RC2</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L331" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IDEA" hyperlink="true"><Font style="Hyperlink">IDEA</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L340" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/MMB-\321\210\320\270\321\204\321\200" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">MMB</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L341" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">CA-1.1</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L342" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Skipjack" hyperlink="true"><Font style="Hyperlink">Skipjack</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L344" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L343" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
