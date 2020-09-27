@@ -274,7 +274,7 @@ Magenta, <Font bold="true">MARS</Font>, <Font bold="true">RC6</Font>, <Font bold
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L52" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\236\320\241\320\242_28147-89" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\236\320\241\320\242 28147-89</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\236\320\241\320\242_28147-89" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\223\320\236\320\241\320\242 28147-89</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L53" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -282,7 +282,7 @@ Magenta, <Font bold="true">MARS</Font>, <Font bold="true">RC6</Font>, <Font bold
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L54" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Advanced_Encryption_Standard" hyperlink="true"><Font style="Hyperlink">AES (Rijndeal)</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Advanced_Encryption_Standard" hyperlink="true"><Font style="Hyperlink" bold="true">AES (Rijndeal)</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L55" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -302,15 +302,15 @@ Magenta, <Font bold="true">MARS</Font>, <Font bold="true">RC6</Font>, <Font bold
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L60" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Blowfish" hyperlink="true"><Font style="Hyperlink">Blowfish</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Blowfish" hyperlink="true"><Font style="Hyperlink" bold="true">Blowfish</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L61" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Camellia_(\320\260\320\273\320\263\320\276\321\200\320\270\321\202\320\274)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">Camellia</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Camellia_(\320\260\320\273\320\263\320\276\321\200\320\270\321\202\320\274)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true">Camellia</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L59" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/CAST-128" hyperlink="true"><Font style="Hyperlink">CAST-128</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/CAST-128" hyperlink="true"><Font style="Hyperlink" bold="true">CAST-128</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L62" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -330,11 +330,11 @@ Magenta, <Font bold="true">MARS</Font>, <Font bold="true">RC6</Font>, <Font bold
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L66" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/DES" hyperlink="true"><Font style="Hyperlink">DES</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/DES" hyperlink="true"><Font style="Hyperlink" bold="true">DES</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L67" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Triple_DES" hyperlink="true"><Font style="Hyperlink">Triple DES</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Triple_DES" hyperlink="true"><Font style="Hyperlink" bold="true">Triple DES</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L68" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -358,6 +358,42 @@ Magenta, <Font bold="true">MARS</Font>, <Font bold="true">RC6</Font>, <Font bold
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L73" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/FEAL" hyperlink="true"><Font style="Hyperlink">FEAL</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L74" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/FROG" hyperlink="true"><Font style="Hyperlink">FROG</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L75" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Grand_Cru" hyperlink="true"><Font style="Hyperlink">Grand Cru</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L76" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Hierocrypt-L1" hyperlink="true"><Font style="Hyperlink">Hierocrypt-L1</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L77" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Hierocrypt-3" hyperlink="true"><Font style="Hyperlink">Hierocrypt-3</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L78" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/HPC_(\321\210\320\270\321\204\321\200)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">HPC</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L79" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">ICE</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L80" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">ICEBERG</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L81" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IDEA" hyperlink="true"><Font style="Hyperlink" bold="true">IDEA</Font></Hyperlink>, PES, IPES</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L82" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
