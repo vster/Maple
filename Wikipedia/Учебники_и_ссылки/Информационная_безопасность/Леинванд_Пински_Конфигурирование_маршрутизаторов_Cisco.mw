@@ -216,6 +216,46 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L41" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">3. \320\236\321\201\320\275\320\276\320\262\321\213 \320\270\320\275\321\202\320\265\321\200\321\204\320\265\320\271\321\201\320\276\320\262 \321\203\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262 Cisco</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L42" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\265\321\202\320\265\320\262\320\276\320\271_\320\270\320\275\321\202\320\265\321\200\321\204\320\265\320\271\321\201" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\230\320\275\321\202\320\265\321\200\321\204\320\265\320\271\321\201</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L43" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\230\320\275\320\272\320\260\320\277\321\201\321\203\320\273\321\217\321\206\320\270\321\217_(\320\272\320\276\320\274\320\277\321\214\321\216\321\202\320\265\321\200\320\275\321\213\320\265_\321\201\320\265\321\202\320\270)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\230\320\275\320\272\320\260\320\277\321\201\321\203\320\273\321\217\321\206\320\270\321\217</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L45" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Ethernet" hyperlink="true"><Font style="Hyperlink">Ethernet</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/IEEE_802.3" hyperlink="true"><Font style="Hyperlink">IEEE 802.3</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L46" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Fast_Ethernet" hyperlink="true"><Font style="Hyperlink">Fast Ethernet</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L47" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Gigabit_Ethernet" hyperlink="true"><Font style="Hyperlink">Gigabit Ethernet</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L48" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Token_ring" hyperlink="true"><Font style="Hyperlink">Token Ring</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L49" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/FDDI" hyperlink="true"><Font style="Hyperlink">FDDI</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L50" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/HDLC" hyperlink="true"><Font style="Hyperlink">HDLC</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/PPP_(\321\201\320\265\321\202\320\265\320\262\320\276\320\271_\320\277\321\200\320\276\321\202\320\276\320\272\320\276\320\273)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">PPP</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/X.25" hyperlink="true"><Font style="Hyperlink">X.25</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/Frame_relay" hyperlink="true"><Font style="Hyperlink">Frame Relay</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/ATM" hyperlink="true"><Font style="Hyperlink">ATM</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/XDSL" hyperlink="true"><Font style="Hyperlink">DSL</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/ISDN" hyperlink="true"><Font style="Hyperlink">ISDN</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L51" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L32" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
