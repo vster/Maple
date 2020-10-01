@@ -177,6 +177,10 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L24" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\240\320\270\320\274\320\260\320\275,_\320\221\320\265\321\200\320\275\321\205\320\260\321\200\320\264" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\240\320\270\320\274\320\260\320\275, \320\221\320\265\321\200\320\275\321\205\320\260\321\200\320\264</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L60" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
@@ -272,8 +276,16 @@
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\270\320\274\320\262\320\276\320\273_\320\233\320\265\320\262\320\270-\320\247\320\270\320\262\320\270\321\202\321\213" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\320\274\320\262\320\276\320\273 \320\233\320\265\320\262\320\270-\320\247\320\270\320\262\320\270\321\202\321\213</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L62" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\233\320\265\320\262\320\270-\320\247\320\270\320\262\320\270\321\202\320\260,_\320\242\321\203\320\273\320\273\320\270\320\276" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\233\320\265\320\262\320\270-\320\247\320\270\320\262\320\270\321\202\320\260, \320\242\321\203\320\273\320\273\320\270\320\276</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L57" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\236\320\277\321\200\320\265\320\264\320\265\320\273\320\270\321\202\320\265\320\273\321\214_\320\223\321\200\320\260\320\274\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\234\320\260\321\202\321\200\320\270\321\206\320\260 \320\223\321\200\320\260\320\274\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L63" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\321\200\320\260\320\274,_\320\231\321\221\321\200\320\263\320\265\320\275_\320\237\320\265\320\264\320\265\321\200\321\201\320\265\320\275" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\223\321\200\320\260\320\274, \320\231\321\221\321\200\320\263\320\265\320\275 \320\237\320\265\320\264\320\265\321\200\321\201\320\265\320\275</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L58" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -305,7 +317,7 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L27" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
 </Input>
 </Group></Presentation-Block>
 </Worksheet>
