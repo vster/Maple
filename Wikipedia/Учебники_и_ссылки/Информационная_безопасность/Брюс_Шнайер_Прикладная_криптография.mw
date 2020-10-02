@@ -1267,5 +1267,41 @@
 <Group view="presentation" inline-output="false" labelreference="L494" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L497" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">21. \320\241\321\205\320\265\320\274\321\213 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\230\320\264\320\265\320\275\321\202\320\270\321\204\320\270\320\272\320\260\321\206\320\270\321\217_(\320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\276\320\275\320\275\321\213\320\265_\321\201\320\270\321\201\321\202\320\265\320\274\321\213)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\270\320\264\320\265\320\275\321\202\320\270\321\204\320\270\320\272\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L498" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\320\244\320\265\320\271\320\263\320\260_\342\200\224_\320\244\320\270\320\260\321\202\320\260_\342\200\224_\320\250\320\260\320\274\320\270\321\200\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 \320\244\320\265\320\271\320\263\320\260 \342\200\224 \320\244\320\270\320\260\321\202\320\260 \342\200\224 \320\250\320\260\320\274\320\270\321\200\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L496" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\265\320\271\320\263\320\265,_\320\243\321\200\320\270\321\215\320\273\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\265\320\271\320\263\320\265, \320\243\321\200\320\270\321\215\320\273\321\214</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L501" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\250\320\260\320\274\320\270\321\200,_\320\220\320\264\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\250\320\260\320\274\320\270\321\200, \320\220\320\264\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L502" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\241\321\205\320\265\320\274\320\260 \320\277\320\276\320\264\320\277\320\270\321\201\320\270 \320\244\320\270\320\260\321\202-\320\250\320\260\320\274\320\270\321\200</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L503" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\221\321\213\321\201\321\202\321\200\320\260\321\217_\321\206\320\270\321\204\321\200\320\276\320\262\320\260\321\217_\320\277\320\276\320\264\320\277\320\270\321\201\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\221\321\213\321\201\321\202\321\200\320\260\321\217 \321\206\320\270\321\204\321\200\320\276\320\262\320\260\321\217 \320\277\320\276\320\264\320\277\320\270\321\201\321\214</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L504" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273_\320\223\320\270\320\273\320\273\321\203_\342\200\224_\320\232\320\270\321\201\320\272\320\260\321\202\321\200\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273 \320\223\320\270\320\273\320\273\321\203 \342\200\224 \320\232\320\270\321\201\320\272\320\260\321\202\321\200\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L505" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\321\205\320\265\320\274\320\260_\320\250\320\275\320\276\321\200\321\200\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\241\321\205\320\265\320\274\320\260 \320\250\320\275\320\276\321\200\321\200\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L506" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://en.wikipedia.org/wiki/Claus_P._Schnorr" hyperlink="true"><Font style="Hyperlink">Claus P. Schnorr</Font></Hyperlink></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
