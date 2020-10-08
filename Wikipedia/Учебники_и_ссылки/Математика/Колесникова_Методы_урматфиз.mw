@@ -261,7 +261,7 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L32" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://physmat.ru/mathphys/laplace2.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\227\320\260\320\264\320\260\321\207 \320\224\320\270\321\200\320\270\321\205\320\273\320\265 \320\275\320\260 \320\272\321\200\321\203\320\263\320\265</Font></Hyperlink></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://physmat.ru/mathphys/laplace2.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\227\320\260\320\264\320\260\321\207\320\260 \320\224\320\270\321\200\320\270\321\205\320\273\320\265 \320\275\320\260 \320\272\321\200\321\203\320\263\320\265</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L63" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
