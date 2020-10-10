@@ -664,10 +664,6 @@
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://habr.com/ru/post/151610/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\220\321\203\320\264\320\270\321\202</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
-<Group view="presentation" inline-output="false" labelreference="L213" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"></Text-field>
-</Input>
-</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L207" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\221\320\265\320\267\320\276\320\277\320\260\321\201\320\275\320\276\321\201\321\202\321\214 \320\236\320\241 UNIX</Font></Text-field>
 </Input>
@@ -676,15 +672,87 @@
 <Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\221\320\265\320\267\320\276\320\277\320\260\321\201\320\275\320\276\321\201\321\202\321\214 \320\236\320\241 Vista</Font></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
-<Group view="presentation" inline-output="false" labelreference="L214" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"></Text-field>
-</Input>
-</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L209" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\250\320\270\321\204\321\200\320\276\320\262\320\260\320\275\320\275\320\260\321\217_\321\204\320\260\320\271\320\273\320\276\320\262\320\260\321\217_\321\201\320\270\321\201\321\202\320\265\320\274\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">EFS</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L211" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L217" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">9. \320\237\321\200\320\276\321\202\320\276\320\272\320\276\320\273\321\213 \320\267\320\260\321\211\320\270\321\211\320\265\320\275\320\275\321\213\321\205 \320\272\320\260\320\275\320\260\320\273\320\276\320\262</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L220" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/PPTP" hyperlink="true"><Font style="Hyperlink">PPTP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L221" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/Layer_2_Forwarding_Protocol" hyperlink="true"><Font style="Hyperlink">L2F</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L222" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/L2TP" hyperlink="true"><Font style="Hyperlink">L2TP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L240" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L227" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IPsec" hyperlink="true"><Font style="Hyperlink" bold="true" italic="true">IPSec</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L226" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IKE" hyperlink="true"><Font style="Hyperlink">IKE</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/ISAKMP" hyperlink="true"><Font style="Hyperlink">ISAKMP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L223" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/IPsec#Encapsulating_Security_Payload" hyperlink="true"><Font style="Hyperlink">ESP</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/IPsec#Authentication_Header" hyperlink="true"><Font style="Hyperlink">AH</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L228" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">SPD, SAD</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L241" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L229" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SSL" hyperlink="true"><Font style="Hyperlink">SSL</Font></Hyperlink>/<Hyperlink linktarget="https://ru.wikipedia.org/wiki/TLS" hyperlink="true"><Font style="Hyperlink">TLS</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L230" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/SOCKS" hyperlink="true"><Font style="Hyperlink">SOCKS</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L238" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L231" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\227\320\260\321\211\320\270\321\202\320\260 \320\261\320\265\321\201\320\277\321\200\320\276\320\262\320\276\320\264\320\275\321\213\321\205 \321\201\320\265\321\202\320\265\320\271</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L232" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\221\320\265\321\201\320\277\321\200\320\276\320\262\320\276\320\264\320\275\320\260\321\217_\320\273\320\276\320\272\320\260\320\273\321\214\320\275\320\260\321\217_\321\201\320\265\321\202\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">WLAN</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L233" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/WEP" hyperlink="true"><Font style="Hyperlink">WEP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L234" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/WPA" hyperlink="true"><Font style="Hyperlink">WPA</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L235" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/TKIP" hyperlink="true"><Font style="Hyperlink">TKIP</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L236" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
