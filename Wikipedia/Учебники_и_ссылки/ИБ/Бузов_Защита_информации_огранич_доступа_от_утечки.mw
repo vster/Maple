@@ -121,6 +121,10 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L20" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/showart.asp?aid=644&amp;lvl=04.02." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\242\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\270\320\265 \320\272\320\260\320\275\320\260\320\273\321\213 \321\203\321\202\320\265\321\207\320\272\320\270 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270, \320\276\320\261\321\200\320\260\320\261\320\260\321\202\321\213\320\262\320\260\320\265\320\274\320\276\320\271 \321\202\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\270\320\274\320\270 \321\201\321\200\320\265\320\264\321\201\321\202\320\262\320\260\320\274\320\270.</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L51" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
@@ -217,6 +221,86 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L39" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L40" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\321\200\320\270\320\272\320\273\320\260\320\264\320\275\320\260\321\217 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\272\321\203\321\201\321\202\320\270\320\272\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\260\320\272\321\203\321\201\321\202\320\270\320\272\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L41" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/showart.asp?aid=11&amp;lvl=04.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\260\320\275\320\260\320\273\321\213 \321\203\321\202\320\265\321\207\320\272\320\270 \321\200\320\265\321\207\320\265\320\262\320\276\320\271 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L42" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://itsec2012.ru/kanaly-utechki-rechevoy-informacii" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\260\320\275\320\260\320\273\321\213 \321\203\321\202\320\265\321\207\320\272\320\270 \321\200\320\265\321\207\320\265\320\262\320\276\320\271 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L43" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L50" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\320\260\321\200\320\260\320\267\320\270\321\202\320\275\320\260\321\217 \320\262\321\213\321\201\320\276\320\272\320\276\321\207\320\260\321\201\321\202\320\276\321\202\320\275\320\260\321\217 \320\263\320\265\320\275\320\265\321\200\320\260\321\206\320\270\321\217 (\320\237\320\222\320\247\320\223)</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L52" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\320\260\321\200\320\260\320\267\320\270\321\202\320\275\320\276\320\265 \320\262\320\276\320\267\320\261\321\203\320\266\320\264\320\265\320\275\320\270\320\265</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L53" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L54" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\277\320\277\320\260\321\200\320\260\321\202\320\275\320\260\321\217_\320\267\320\260\320\272\320\273\320\260\320\264\320\272\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\227\320\260\320\272\320\273\320\260\320\264\320\276\321\207\320\275\321\213\320\265 \321\203\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L55" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\240\320\260\320\264\320\270\320\276\320\267\320\260\320\272\320\273\320\260\320\264\320\276\321\207\320\275\321\213\320\265 \321\203\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262\320\260</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L45" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://pitbot.ru/5.shtml" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\321\200\320\265\320\264\321\201\321\202\320\262\320\260 \320\277\320\265\321\200\320\265\321\205\320\262\320\260\321\202\320\260 \320\260\321\203\320\264\320\270\320\276\320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L56" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L57" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\222\320\276\320\273\320\276\320\272\320\276\320\275\320\275\320\276-\320\276\320\277\321\202\320\270\321\207\320\265\321\201\320\272\320\260\321\217_\320\273\320\270\320\275\320\270\321\217_\320\277\320\265\321\200\320\265\320\264\320\260\321\207\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\222\320\276\320\273\320\276\320\272\320\276\320\275\320\275\320\276-\320\276\320\277\321\202\320\270\321\207\320\265\321\201\320\272\320\270\320\265 \320\273\320\270\320\275\320\270\320\270 \321\201\320\262\321\217\320\267\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L58" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.mascom.ru/equipment/sistemy-otsenki-zashchishchennosti-informatsii/sistemy-otsenki-kanala-vols/lazurit.php" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\220\320\232 &quot;\320\233\320\260\320\267\321\203\321\200\320\270\321\202&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L60" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\320\220\320\232 &quot;\320\250\320\273\321\216\320\267&quot;</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L61" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://infosecur.ru/shop/guard_info/zashita_optovolokna/foton-m" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262\320\276 \320\267\320\260\321\211\320\270\321\202\321\213 &quot;\320\244\320\276\321\202\320\276\320\275-\320\234&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L62" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.tehencom.com/Categories/Attenuators_Optics/Attenuators_Optics.htm" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\220\321\202\321\202\320\265\320\275\321\216\320\260\321\202\320\276\321\200 \320\276\320\277\321\202\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \320\277\320\265\321\200\320\265\321\201\321\202\321\200\320\260\320\270\320\262\320\260\320\265\320\274\321\213\320\271</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L63" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\224\320\270\320\272\321\202\320\276\321\204\320\276\320\275" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\270\320\272\321\202\320\276\321\204\320\276\320\275</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L64" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\276\321\202\320\276\320\262\321\213\320\271_\321\202\320\265\320\273\320\265\321\204\320\276\320\275" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\241\320\276\321\202\320\276\320\262\321\213\320\271 \321\202\320\265\320\273\320\265\321\204\320\276\320\275</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L65" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L59" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
