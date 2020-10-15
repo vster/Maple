@@ -715,5 +715,177 @@
 <Group view="presentation" inline-output="false" labelreference="L175" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L176" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">3. \320\236\321\200\320\263\320\260\320\275\320\270\320\267\320\260\321\206\320\270\321\217 \320\270\320\275\320\266\320\265\320\275\320\265\321\200\320\275\320\276-\321\202\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\276\320\271 \320\267\320\260\321\211\320\270\321\202\321\213 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L177" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L178" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">4. \320\234\320\265\321\202\320\276\320\264\321\213 \320\270 \321\201\321\200\320\265\320\264\321\201\321\202\320\262\320\260 \320\267\320\260\321\211\320\270\321\202\321\213 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L179" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\236\321\200\320\263\320\260\320\275\320\270\320\267\320\260\321\206\320\270\321\217 \320\267\320\260\321\211\320\270\321\202\321\213 \321\200\320\265\321\207\320\265\320\262\320\276\320\271 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L180" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\320\260\321\201\321\201\320\270\320\262\320\275\321\213\320\265 \321\201\321\200\320\265\320\264\321\201\321\202\320\262\320\260 \320\267\320\260\321\211\320\270\321\202\321\213 \320\262\321\213\320\264\320\265\320\273\320\265\320\275\320\275\321\213\321\205 \320\277\320\276\320\274\320\265\321\211\320\265\320\275\320\270\320\271</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L181" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\227\320\262\321\203\320\272\320\276\320\270\320\267\320\276\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\227\320\262\321\203\320\272\320\276\320\270\320\267\320\276\320\273\321\217\321\206\320\270\321\217 \320\277\320\276\320\274\320\265\321\211\320\265\320\275\320\270\320\271</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L183" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L184" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\220\320\277\320\277\320\260\321\200\320\260\321\202\321\203\321\200\320\260 \320\270 \321\201\320\277\320\276\321\201\320\276\320\261\321\213 \320\260\320\272\321\202\320\270\320\262\320\275\320\276\320\271 \320\267\320\260\321\211\320\270\321\202\321\213 \320\277\320\276\320\274\320\265\321\211\320\265\320\275\320\270\320\271 \320\276\321\202 \321\203\321\202\320\265\321\207\320\272\320\270 \321\200\320\265\321\207\320\265\320\262\320\276\320\271 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L185" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.brevis-lab.ru/services/information-protection/sredstva_zaschity_ot_proslushivaniya/sredstva_zaschity_akusticheskoj_rechevoj_informatsii/sel_sp-55" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\265\320\275\320\265\321\200\320\260\321\202\320\276\321\200 SEL SP-55/4</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L186" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.sinf.ru/catalog/sp_vibro/vibro.htm" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\250\321\202\320\276\321\200\320\274-5&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L187" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\221\320\260\321\200\320\276\320\275&quot;</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L188" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.infosecur.ru/shop/guard_info/vibro/sh4" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\250\320\276\321\200\320\276\321\205-3&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L189" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.infosecur.ru/shop/guard_info/vibro/sh5" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\250\320\276\321\200\320\276\321\205-4&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L190" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2051&amp;tbl=04.03.01.01.02." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\264\320\260\320\277\321\202\320\270\320\262\320\275\321\213\320\271 \320\263\320\265\320\275\320\265\321\200\320\260\321\202\320\276\321\200 \320\277\320\276\320\274\320\265\321\205\320\270 &quot;\320\232\320\265\320\264\321\200&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L191" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://npoanna.ru/Content.aspx?name=models.sonata-avm" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\241\320\276\320\275\320\260\321\202\320\260-\320\220\320\222&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L192" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L193" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\227\320\260\321\211\320\270\321\202\320\260 \321\201\320\270\321\201\321\202\320\265\320\274\321\213 \321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\277\320\270\321\202\320\260\320\275\320\270\321\217</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L196" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nelk.ru/catalog/tekhnicheskie_sredstva_zashchity_informatsii/ustroystva_zashchity_seti_elektropitaniya/sel_sp_44/" hyperlink="true"><Font style="Hyperlink">SELSP-44</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L197" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://npoanna.ru/content.aspx?name=models.sonata-rs" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\276\320\275\320\260\321\202\320\260-\320\240\320\2411</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L198" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://npoanna.ru/Content.aspx?name=models.sonata-rk1" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\276\320\275\320\260\321\202\320\260-\320\240\320\2321</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L200" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.sis-tss.ru/2010-06-24-20-02-16/5761-mnogofunktsionalnyj-generator-shuma-grom-zi-4.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\275\320\276\320\274-\320\227\320\2304</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L201" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L203" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\227\320\260\321\211\320\270\321\202\320\260 \320\276\320\272\320\276\320\275\320\265\321\207\320\275\320\276\320\263\320\276 \320\276\320\261\320\276\321\200\321\203\320\264\320\276\320\262\320\260\320\275\320\270\321\217 \321\201\320\273\320\260\320\261\320\276\321\202\320\276\321\207\320\275\321\213\321\205 \320\273\320\270\320\275\320\270\320\271</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L204" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nelk.ru/catalog/tekhnicheskie_sredstva_zashchity_informatsii/ustroystva_zashchity_telefonnykh_i_drugikh_provodnykh_liniy/mp-1a/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\234\320\237-1\320\220</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L205" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\237-2</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L206" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\237-3</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L207" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\237-4</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L208" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nelk.ru/catalog/tekhnicheskie_sredstva_zashchity_informatsii/ustroystva_zashchity_telefonnykh_i_drugikh_provodnykh_liniy/korund/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262\320\276 &quot;\320\232\320\276\321\200\321\203\320\275\320\264&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L209" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\243\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262\320\276 &quot;\320\223\321\200\320\260\320\275\321\214&quot;</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L212" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L213" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\227\320\260\321\211\320\270\321\202\320\260 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270, \320\276\320\261\321\200\320\260\320\261\320\260\321\202\321\213\320\262\320\260\320\265\320\274\320\276\320\271 \321\202\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\270\320\274\320\270 \321\201\321\200\320\265\320\264\321\201\321\202\320\262\320\260\320\274\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L214" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\255\320\272\321\200\320\260\320\275\320\270\321\200\320\276\320\262\320\260\320\275\320\270\320\265</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L215" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\227\320\260\320\267\320\265\320\274\320\273\320\265\320\275\320\270\320\265" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\227\320\260\320\267\320\265\320\274\320\273\320\265\320\275\320\270\320\265</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L216" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L217" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\236\321\200\320\263\320\260\320\275\320\270\320\267\320\260\321\206\320\270\321\217 \320\267\320\260\321\211\320\270\321\202\321\213 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270 \320\276\321\202 \321\203\321\202\320\265\321\207\320\272\320\270 \320\267\320\260 \321\201\321\207\320\265\321\202 \320\237\320\255\320\234\320\230\320\235</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L218" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/TEMPEST" hyperlink="true"><Font style="Hyperlink">TEMPEST</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L219" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L220" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\236\321\200\320\263\320\260\320\275\320\270\320\267\320\260\321\206\320\270\321\217 \320\267\320\260\321\211\320\270\321\202\321\213 \320\237\320\255\320\222\320\234 \320\276\321\202 \320\275\320\265\321\201\320\260\320\275\320\272\321\206\320\270\320\276\320\275\320\270\321\200\320\276\320\262\320\260\320\275\320\275\320\276\320\263\320\276 \320\264\320\276\321\201\321\202\321\203\320\277\320\260</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L221" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\235\320\265\321\201\320\260\320\275\320\272\321\206\320\270\320\276\320\275\320\270\321\200\320\276\320\262\320\260\320\275\320\275\321\213\320\271_\320\264\320\276\321\201\321\202\321\203\320\277" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\235\320\265\321\201\320\260\320\275\320\272\321\206\320\270\320\276\320\275\320\270\321\200\320\276\320\262\320\260\320\275\320\275\321\213\320\271 \320\264\320\276\321\201\321\202\321\203\320\277 (\320\235\320\241\320\224)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L222" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L210" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.renom.ru/pdf/MP-7_(A4).pdf" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262\320\276 \320\267\320\260\321\211\320\270\321\202\321\213 \320\234\320\237-7 &quot;\320\223\320\262\320\260\321\200\320\264&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L211" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L182" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
