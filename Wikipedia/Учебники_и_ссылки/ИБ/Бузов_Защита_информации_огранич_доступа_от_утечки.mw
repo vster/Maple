@@ -1039,5 +1039,81 @@
 <Group view="presentation" inline-output="false" labelreference="L262" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L268" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\220\320\255\320\237</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L263" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=4461&amp;tbl=04.02.05." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\220\320\232 &quot;\320\223\321\200\320\270\321\204-\320\220\320\255-1001&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L264" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=6833&amp;tbl=04.02.02." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\242\320\260\320\273\320\270\321\201&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L265" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L266" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.delphiplus.org/zashchita-informatsii-tekhnicheskimi-sredstvami/obshchaya-kharakteristika-vysokochastotnogo-navyazyvaniya.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\222\320\247 \320\275\320\260\320\262\321\217\320\267\321\213\320\262\320\260\320\275\320\270\320\265</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L269" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=6710&amp;tbl=04.02.02." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\272\321\203\321\201\321\202\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \321\200\320\265\321\204\320\273\320\265\320\272\321\202\320\276\320\274\320\265\321\202\321\200 &quot;\320\220\321\200\321\204\320\260-\320\234\320\224&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L270" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L271" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\222\320\247 \320\276\320\261\320\273\321\203\321\207\320\265\320\275\320\270\320\265</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L272" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L273" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/TEMPEST" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\255\320\234\320\230\320\235</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L274" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2785&amp;tbl=04.02.01.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\227\320\260\321\200\320\275\320\270\321\206\320\260-\320\237&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L275" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=1202&amp;tbl=04.02.01.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\235\320\260\320\262\320\270\320\263\320\260\321\202\320\276\321\200&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L276" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=5823&amp;tbl=04.02.01.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\233\320\265\320\263\320\265\320\275\320\264\320\260-05\320\234&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L277" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2774&amp;tbl=04.02.01.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\241\320\270\320\263\321\203\321\200\320\264&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L278" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.mascom-vostok.ru/service/stentor-mini/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\270\321\201\321\202\320\265\320\274\320\260 &quot;\320\241\321\202\320\265\320\275\321\202\320\276\321\200&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L280" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L281" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.mascom.ru/library/statyi/ispytatelnaya-laboratoriya-k-voprosu-otsenki-saz.php" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\236\321\206\320\265\320\275\320\272\320\260 \321\215\321\204\321\204\320\265\320\272\321\202\320\270\320\262\320\275\320\276\321\201\321\202\320\270 \320\241\320\220\320\227</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L282" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L279" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
