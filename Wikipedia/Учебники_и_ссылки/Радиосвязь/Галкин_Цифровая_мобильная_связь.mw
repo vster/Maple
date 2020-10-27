@@ -277,7 +277,35 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L57" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\221\320\270\320\275\320\260\321\200\320\275\321\213\320\265 \321\206\320\270\321\204\321\200\320\276\320\262\321\213\320\265 \321\201\320\270\320\263\320\275\320\260\320\273\321\213</Font></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\221\320\270\320\275\320\260\321\200\320\275\321\213\320\265 \321\206\320\270\321\204\321\200\320\276\320\262\321\213\320\265 \321\201\320\270\320\263\320\275\320\260\320\273\321\213:</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L110" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\243\320\275\320\270\320\277\320\276\320\273\321\217\321\200\320\275\321\213\320\271 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/NRZ_(\320\277\321\200\321\217\320\274\320\276\320\271)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">NRZ</Font></Hyperlink><Font encoding="UTF-8">-\321\201\320\270\320\263\320\275\320\260\320\273</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L111" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\320\276\320\273\321\217\321\200\320\275\321\213\320\271 NRZ-\321\201\320\270\320\263\320\275\320\260\320\273</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L112" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\243\320\275\320\270\320\277\320\276\320\273\321\217\321\200\320\275\321\213\320\271 RZ-\321\201\320\270\320\263\320\275\320\260\320\273</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L113" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\237\320\276\320\273\321\217\321\200\320\275\321\213\320\271 RZ-\321\201\320\270\320\263\320\275\320\260\320\273</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L114" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\241\320\270\320\263\320\275\320\260\320\273 &quot;\320\234\320\260\320\275\321\207\320\265\321\201\321\202\320\265\321\200&quot;</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L116" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\270\320\267\320\270\321\207\320\265\321\201\320\272\320\276\320\265_\320\272\320\276\320\264\320\270\321\200\320\276\320\262\320\260\320\275\320\270\320\265" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\270\320\267\320\270\321\207\320\265\321\201\320\272\320\276\320\265 \320\272\320\276\320\264\320\270\321\200\320\276\320\262\320\260\320\275\320\270\320\265</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L118" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L58" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -361,6 +389,226 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L76" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L79" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">3. \320\243\320\267\320\272\320\276\320\277\320\276\320\273\320\276\321\201\320\275\321\213\320\265 \320\274\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\321\213\320\265 \321\201\320\270\320\263\320\275\320\260\320\273\321\213</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L80" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\242\320\270\320\277 </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\234\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L81" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\274\320\277\320\273\320\270\321\202\321\203\320\264\320\275\320\260\321\217_\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\274\320\277\320\273\320\270\321\202\321\203\320\264\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 AM</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L82" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\247\320\260\321\201\321\202\320\276\321\202\320\275\320\260\321\217_\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\247\320\260\321\201\321\202\320\276\321\202\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 FM</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L83" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 PM</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L84" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\320\260\321\217_\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\320\260\321\217 \320\260\320\274\320\277\320\273\320\270\321\202\321\203\320\264\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 QAM</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L85" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L86" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\233\320\270\320\275\320\265\320\271\320\275\320\260\321\217 (AM, PM, QAM) \320\270 \320\275\320\265\320\273\320\270\320\275\320\265\320\271\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (FM)</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L88" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 \321\201 \320\277\320\260\320\274\321\217\321\202\321\214\321\216 (DQPSK, CPFSK) \320\270 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 \320\261\320\265\320\267 \320\277\320\260\320\274\321\217\321\202\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L91" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\243\320\267\320\272\320\276\320\277\320\276\320\273\320\276\321\201\321\202\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (AM, FM, PM, QAM) \320\270 </Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L89" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8"> \321\210\320\270\321\200\320\276\320\272\320\276\320\277\320\276\320\273\320\276\321\201\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (DSSS, FHSS, CSS, UWB)</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L92" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 \321\201 \320\275\320\265\321\201\320\272\320\276\320\273\321\214\320\272\320\270\320\274\320\270 \320\275\320\265\321\201\321\203\321\211\320\270\320\274\320\270 (OFDM)</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L93" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L94" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\321\213\320\271 \321\201\320\270\320\263\320\275\320\260\320\273 \320\262\320\276 \320\262\321\200\320\265\320\274\320\265\320\275\320\275\320\276\320\271 \320\276\320\261\320\273\320\260\321\201\321\202\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" hide-output="false" inline-output="false" labelreference="L95" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYsLUkjbWlHRiQ2JVEic0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JKG1mZW5jZWRHRiQ2JC1GIzYlLUYsNiVRInRGJ0YvRjIvJStleGVjdXRhYmxlR1EmZmFsc2VGJy9GM1Enbm9ybWFsRidGQC1JI21vR0YkNi1RIj1GJ0ZALyUmZmVuY2VHRj8vJSpzZXBhcmF0b3JHRj8vJSlzdHJldGNoeUdGPy8lKnN5bW1ldHJpY0dGPy8lKGxhcmdlb3BHRj8vJS5tb3ZhYmxlbGltaXRzR0Y/LyUnYWNjZW50R0Y/LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGVi1GLDYlUSJVRidGL0YyRjUtRkM2LVEnJnNkb3Q7RidGQEZGRkhGSkZMRk5GUEZSL0ZVUSYwLjBlbUYnL0ZYRmpuLUYsNiVRJGNvc0YnL0YwRj9GQC1GNjYkLUYjNistRiw2JVEnJiM5Njk7RidGX29GQEY1RmZuRjotRkM2LVEiK0YnRkBGRkZIRkpGTEZORlBGUi9GVVEsMC4yMjIyMjIyZW1GJy9GWEZbcC1GLDYlUScmIzk1MjtGJ0Zfb0ZARjVGPUZARkBGPUZA">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYsLUkjbWlHRiQ2JVEic0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JKG1mZW5jZWRHRiQ2JC1GIzYlLUYsNiVRInRGJ0YvRjIvJStleGVjdXRhYmxlR1EmZmFsc2VGJy9GM1Enbm9ybWFsRidGQC1JI21vR0YkNi1RIj1GJ0ZALyUmZmVuY2VHRj8vJSpzZXBhcmF0b3JHRj8vJSlzdHJldGNoeUdGPy8lKnN5bW1ldHJpY0dGPy8lKGxhcmdlb3BHRj8vJS5tb3ZhYmxlbGltaXRzR0Y/LyUnYWNjZW50R0Y/LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGVi1GLDYlUSJVRidGL0YyRjUtRkM2LVEnJnNkb3Q7RidGQEZGRkhGSkZMRk5GUEZSL0ZVUSYwLjBlbUYnL0ZYRmpuLUYsNiVRJGNvc0YnL0YwRj9GQC1GNjYkLUYjNistRiw2JVEnJiM5Njk7RidGX29GQEY1RmZuRjotRkM2LVEiK0YnRkBGRkZIRkpGTEZORlBGUi9GVVEsMC4yMjIyMjIyZW1GJy9GWEZbcC1GLDYlUScmIzk1MjtGJ0Zfb0ZARjVGPUZARkBGPUZA</Equation></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L96" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\234\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\321\213\320\271 \321\201\320\270\320\263\320\275\320\260\320\273 \320\262 \321\207\320\260\321\201\321\202\320\276\321\202\320\275\320\276\320\271 \320\276\320\261\320\273\320\260\321\201\321\202\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L97" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L78" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\234\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\234\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L100" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\224\320\265\321\202\320\265\320\272\321\202\320\276\321\200_(\321\200\320\260\320\264\320\270\320\276\321\202\320\265\321\205\320\275\320\270\320\272\320\260)" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\265\320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L101" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.dsplib.org/content/quadrature_modulator/quadrature_modulator.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\222\320\265\320\272\321\202\320\276\321\200\320\275\321\213\320\271 \320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L102" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.chipinfo.ru/literature/chipnews/200008/2.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\321\213\320\271 \320\272\320\276\320\263\320\265\321\200\320\265\320\275\321\202\320\275\321\213\320\271 \320\264\320\265\320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L103" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\222\320\265\320\272\321\202\320\276\321\200\320\275\321\213\320\271 \320\272\320\276\320\263\320\265\321\200\320\265\320\275\321\202\320\275\321\213\320\271 \320\264\320\265\320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L104" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\320\270\321\207\320\275\321\213\320\271 \320\275\320\265\320\272\320\276\320\263\320\265\321\200\320\265\320\275\321\202\320\275\321\213\320\271 \320\264\320\265\320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L105" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\224\320\270\321\204\321\204\320\265\321\200\320\265\320\275\321\206\320\270\320\260\320\273\321\214\320\275\321\213\320\271 \320\275\320\265\320\272\320\276\320\263\320\265\321\200\320\265\320\275\321\202\320\275\321\213\320\271 \320\264\320\265\320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L106" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L107" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\236\320\263\321\200\320\260\320\275\320\270\321\207\320\265\320\275\320\270\320\265 \321\201\320\277\320\265\320\272\321\202\321\200\320\260 \320\274\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\320\276\320\263\320\276 \321\201\320\270\320\263\320\275\320\260\320\273\320\260</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L108" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L138" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\321\202\320\260\320\275\320\264\320\260\321\200\321\202\320\270\320\267\320\276\320\262\320\260\320\275\320\275\321\213\320\265_\320\260\320\261\320\261\321\200\320\265\320\262\320\270\320\260\321\202\321\203\321\200\321\213_\321\202\320\270\320\277\320\276\320\262_\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\241\321\202\320\260\320\275\320\264\320\260\321\200\321\202\320\270\320\267\320\276\320\262\320\260\320\275\320\275\321\213\320\265 \320\260\320\261\320\261\321\200\320\265\320\262\320\270\320\260\321\202\321\203\321\200\321\213 \321\202\320\270\320\277\320\276\320\262 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L139" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L99" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\274\320\277\320\273\320\270\321\202\321\203\320\264\320\275\320\260\321\217_\320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\274\320\277\320\273\320\270\321\202\321\203\320\264\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L109" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L119" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217</Font></Hyperlink> </Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L120" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\261\320\265\320\267 \320\277\320\260\320\274\321\217\321\202\320\270 (</Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217#\320\224\320\262\320\276\320\270\321\207\320\275\320\260\321\217_\321\204\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">BPSK</Font></Hyperlink>, <Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217#\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\320\260\321\217_\321\204\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink">QPSK</Font></Hyperlink>, OQPSK)</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L121" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\270\320\273\320\270 \321\201 \320\277\320\260\320\274\321\217\321\202\321\214\321\216 (DBPSK, </Font><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217#\317\200/4-QPSK" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\317\200/4 DQPSK</Font></Hyperlink>)</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L122" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L123" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.dsplib.org/content/signal_bpsk/signal_bpsk.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\221\320\270\320\275\320\260\321\200\320\275\320\260\321\217 \321\204\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (BPSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L124" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.dsplib.org/content/signal_qpsk/signal_qpsk.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\320\260\321\217 \321\204\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (QPSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L125" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://digteh.ru/UGFSvSPS/modul/OQPSK/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\320\260\321\217 \321\201\320\264\320\262\320\270\320\263\320\276\320\262\320\260\321\217 \321\204\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (OQPSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L126" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.dsplib.org/content/signal_bpsk/signal_bpsk.html#r3" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\270\321\204\321\204\320\265\321\200\320\265\320\275\321\206\320\270\320\260\320\273\321\214\320\275\320\260\321\217 \320\261\320\270\320\275\320\260\321\200\320\275\320\260\321\217 \321\204\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (DBPSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L127" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\274\320\260\320\275\320\270\320\277\321\203\320\273\321\217\321\206\320\270\321\217#\317\200/4-QPSK" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\270\321\204\321\204\320\265\321\200\320\265\320\275\321\206\320\270\320\260\320\273\321\214\320\275\320\260\321\217 \321\204\320\260\320\267\320\276\320\262\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (\317\200/4 DQPSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L128" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://digteh.ru/UGFSvSPS/modul/QAM/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\320\260\321\217 \320\260\320\274\320\277\320\273\320\270\321\202\321\203\320\264\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 (QAM)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L130" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L133" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\247\320\260\321\201\321\202\320\276\321\202\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L131" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://digteh.ru/UGFSvSPS/modul/FSK/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\247\320\260\321\201\321\202\320\276\321\202\320\275\320\276-\320\274\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\321\213\320\265 \321\201\320\270\320\263\320\275\320\260\320\273\321\213 \321\201 \321\200\320\260\320\267\321\200\321\213\320\262\320\275\320\276\320\271 \321\204\320\260\320\267\320\276\320\271 (FSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L129" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://digteh.ru/UGFSvSPS/modul/CPFSK/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\247\320\260\321\201\321\202\320\276\321\202\320\275\320\276-\320\274\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\320\265 \321\201\320\270\320\263\320\275\320\260\320\273\321\213 \321\201 \320\275\320\265\320\277\321\200\320\265\321\200\321\213\320\262\320\275\320\276\320\271 \321\204\320\260\320\267\320\276\320\271 (CPFSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L134" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://digteh.ru/UGFSvSPS/modul/MSK/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\247\320\260\321\201\321\202\320\276\321\202\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 \320\274\320\270\320\275\320\270\320\274\320\260\320\273\321\214\320\275\320\276\320\263\320\276 \321\204\320\260\320\267\320\276\320\262\320\276\320\263\320\276 \321\201\320\264\320\262\320\270\320\263\320\260 (MSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L135" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.dsplib.org/content/signal_gmsk/signal_gmsk.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\236\320\263\321\200\320\260\320\275\320\270\321\207\320\265\320\275\320\270\320\265 \321\201\320\277\320\265\320\272\321\202\321\200\320\260 \321\201\320\270\320\263\320\275\320\260\320\273\320\260 MSK (GMSK)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L136" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\242\321\200\320\265\321\205\321\203\321\200\320\276\320\262\320\275\320\265\320\262\321\213\320\271 \321\201\320\270\320\263\320\275\320\260\320\273 CPFSK</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L137" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\241\320\263\320\273\320\260\320\266\320\265\320\275\320\275\320\260\321\217 \321\207\320\260\321\201\321\202\320\276\321\202\320\275\320\260\321\217 \320\274\320\276\320\264\321\203\320\273\321\217\321\206\320\270\321\217 TFM</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L140" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L141" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.dsplib.org/content/signal_fsk/signal_fsk.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\234\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200\321\213 \320\270 \320\277\321\200\320\270\320\265\320\274\320\275\320\270\320\272\320\270 \321\207\320\260\321\201\321\202\320\276\321\202\320\275\320\276-\320\274\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\320\276\320\263\320\276 \321\201\320\270\320\263\320\275\320\260\320\273\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L142" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\232\320\262\320\260\320\264\321\200\320\260\321\202\321\203\321\200\320\275\321\213\320\271 \320\274\320\276\320\264\321\203\320\273\321\217\321\202\320\276\321\200 \321\201\320\270\320\263\320\275\320\260\320\273\320\276\320\262 CPFSK</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L143" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\232\320\276\320\263\320\265\321\200\320\265\320\275\321\202\320\275\321\213\320\271 \320\277\321\200\320\270\320\265\320\274\320\275\320\270\320\272</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L144" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\235\320\265\320\272\320\276\320\263\320\265\321\200\320\265\320\275\321\202\320\275\321\213\320\271 \320\277\321\200\320\270\320\265\320\274\320\275\320\270\320\272 \321\207\320\260\321\201\321\202\320\276\321\202\320\275\320\276-\320\274\320\276\320\264\321\203\320\273\320\270\321\200\320\276\320\262\320\260\320\275\320\275\320\276\320\263\320\276 \321\201\320\270\320\263\320\275\320\260\320\273\320\260</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L145" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
