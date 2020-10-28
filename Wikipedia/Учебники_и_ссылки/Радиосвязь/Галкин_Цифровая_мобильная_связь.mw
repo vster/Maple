@@ -659,5 +659,17 @@
 <Group view="presentation" inline-output="false" labelreference="L167" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L169" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">5. \320\241\320\270\320\275\321\202\320\265\320\267 \320\270 \320\277\321\200\320\265\320\276\320\261\321\200\320\260\320\267\320\276\320\262\320\260\320\275\320\270\320\265 \321\207\320\260\321\201\321\202\320\276\321\202</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L170" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\244\320\260\320\267\320\276\320\262\320\260\321\217_\320\260\320\262\321\202\320\276\320\277\320\276\320\264\321\201\321\202\321\200\320\276\320\271\320\272\320\260_\321\207\320\260\321\201\321\202\320\276\321\202\321\213" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\244\320\260\320\267\320\276\320\262\320\260\321\217 \320\260\320\262\321\202\320\276\320\277\320\276\320\264\321\201\321\202\321\200\320\276\320\271\320\272\320\260 \321\207\320\260\321\201\321\202\320\276\321\202\321\213 \320\244\320\220\320\237\320\247, PLL (Phase Looked Loop)</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L171" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
