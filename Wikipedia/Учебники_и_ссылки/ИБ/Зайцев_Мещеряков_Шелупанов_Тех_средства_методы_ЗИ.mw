@@ -277,7 +277,7 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L55" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\242\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\270\320\265 \320\272\320\260\320\275\320\260\320\273\321\213 \321\203\321\202\320\265\321\207\320\272\320\270 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270 \320\277\321\200\320\270 \320\277\320\265\321\200\320\265\320\264\320\260\321\207\320\265 \320\265\320\265 \320\277\320\276 \320\272\320\260\320\275\320\260\320\273\320\260\320\274 \321\201\320\262\321\217\320\267\320\270</Font></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://studfile.net/preview/8673206/page:9/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\242\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\270\320\265 \320\272\320\260\320\275\320\260\320\273\321\213 \321\203\321\202\320\265\321\207\320\272\320\270 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270 \320\277\321\200\320\270 \320\277\320\265\321\200\320\265\320\264\320\260\321\207\320\265 \320\265\320\265 \320\277\320\276 \320\272\320\260\320\275\320\260\320\273\320\260\320\274 \321\201\320\262\321\217\320\267\320\270</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L56" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -593,6 +593,178 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L139" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L140" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nelk.ru/catalog/tekhnicheskie_sredstva_poiska_kanalov_utechki_informatsii/" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8">3. \320\241\321\200\320\265\320\264\321\201\321\202\320\262\320\260 \320\262\321\213\321\217\320\262\320\273\320\265\320\275\320\270\321\217 \320\272\320\260\320\275\320\260\320\273\320\276\320\262 \321\203\321\202\320\265\321\207\320\272\320\270 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L141" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/index.asp?tbl=04.01.01.07.&amp;p=8" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\230\320\275\320\264\320\270\320\272\320\260\321\202\320\276\321\200\321\213 \321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\274\320\260\320\263\320\275\320\270\321\202\320\275\320\276\320\263\320\276 \320\277\320\276\320\273\321\217</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L153" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/showart.asp?aid=960&amp;lvl=04.01.01." hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\237\320\276\320\270\321\201\320\272 \321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\275\320\275\321\213\321\205 \321\203\321\201\321\202\321\200\320\276\320\271\321\201\321\202\320\262 \320\277\320\265\321\200\320\265\321\205\320\262\320\260\321\202\320\260 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270 \321\201 \320\270\321\201\320\277\320\276\320\273\321\214\320\267\320\276\320\262\320\260\320\275\320\270\320\265\320\274 \320\270\320\275\320\264\320\270\320\272\320\260\321\202\320\276\321\200\320\276\320\262 \321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\274\320\260\320\263\320\275\320\270\321\202\320\275\320\276\320\263\320\276 \320\277\320\276\320\273\321\217</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L142" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.hardbroker.ru/catalog/producs/view/471" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\230\320\275\320\264\320\270\320\272\320\260\321\202\320\276\321\200 \320\277\320\276\320\273\321\217 \321\207\320\260\321\201\321\202\320\276\321\202\320\276\320\274\320\265\321\200 SEL SP-71M &quot;\320\236\320\261\320\265\321\200\320\265\320\263&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L143" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2173&amp;tbl=04.01.01.07." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\265\321\202\320\265\320\272\321\202\320\276\321\200 \320\241\320\222\320\247-\320\277\320\276\320\273\321\217 DP-20</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L144" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=1223&amp;tbl=04.01.01.07." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\270\321\204\321\204\320\265\321\200\320\265\320\275\321\206\320\270\320\260\320\273\321\214\320\275\321\213\320\271 \320\264\320\265\321\202\320\265\320\272\321\202\320\276\321\200 \320\277\320\276\320\273\321\217 \320\220\320\240\320\232-\320\224\320\224\320\237</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L145" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L146" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://sicom.ru/catalog/skaniruyuschie-priemniki/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\272\320\260\320\275\320\270\321\200\321\203\321\216\321\211\320\270\320\265 \321\200\320\260\320\264\320\270\320\276\320\277\321\200\320\270\320\265\320\274\320\275\320\270\320\272\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L147" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=538&amp;tbl=04.01.01.05." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\272\320\260\320\275\320\270\321\200\321\203\321\216\321\211\320\270\320\271 \320\277\321\200\320\270\320\265\320\274\320\275\320\270\320\272 AR5000</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L148" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=540&amp;tbl=04.01.01.05." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\272\320\260\320\275\320\270\321\200\321\203\321\216\321\211\320\270\320\271 \320\277\321\200\320\270\320\265\320\274\320\275\320\270\320\272 ICOM IC-R10</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L149" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L150" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\320\275\320\260\320\273\320\270\320\267\320\260\321\202\320\276\321\200_\321\201\320\277\320\265\320\272\321\202\321\200\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\275\320\260\320\273\320\270\320\267\320\260\321\202\320\276\321\200\321\213 \321\201\320\277\320\265\320\272\321\202\321\200\320\260</Font></Hyperlink><Font encoding="UTF-8">, \321\200\320\260\320\264\320\270\320\276\321\207\320\260\321\201\321\202\320\276\321\202\320\276\320\274\320\265\321\200\321\213</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L151" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=1292&amp;tbl=04.01.01.08." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\247\320\260\321\201\321\202\320\276\321\202\320\276\320\274\320\265\321\200 3000A Plus</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L154" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.mprofit.ru/descr11985.htm" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\275\320\260\320\273\320\270\320\267\320\260\321\202\320\276\321\200 \321\201\320\277\320\265\320\272\321\202\321\200\320\260 HP 8591E</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L155" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://www.sis-tss.ru/2010-06-24-19-16-31/4873-analizator-spektra-hp-esa-l1500a.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\220\320\275\320\260\320\273\320\270\320\267\320\260\321\202\320\276\321\200 \321\201\320\277\320\265\320\272\321\202\321\200\320\260 ESA-L1500A</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L156" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L157" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/index.asp?tbl=04.01.06." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\234\320\275\320\276\320\263\320\276\321\204\321\203\320\275\320\272\321\206\320\270\320\276\320\275\320\260\320\273\321\214\320\275\321\213\320\265 \320\272\320\276\320\274\320\277\320\273\320\265\320\272\321\202\321\213 \320\264\320\273\321\217 \320\262\321\213\321\217\320\262\320\273\320\265\320\275\320\270\321\217 \320\272\320\260\320\275\320\260\320\273\320\276\320\262 \321\203\321\202\320\265\321\207\320\272\320\270 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L158" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2081&amp;tbl=04.01.06." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\276\321\200\321\202\320\260\321\202\320\270\320\262\320\275\321\213\320\271 \320\272\320\276\320\274\320\277\320\273\320\265\320\272\321\202 \320\237\320\232\320\243-6\320\234</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L159" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=5824&amp;tbl=04.01.06.&amp;p=2" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\276\321\200\321\202\320\260\321\202\320\270\320\262\320\275\321\213\320\271 \320\272\320\276\320\274\320\277\320\273\320\265\320\272\321\202 &quot;\320\237\320\270\321\200\320\260\320\275\321\214\321\217&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L160" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2797&amp;tbl=04.01.01.02.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 RS turbo</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L162" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L163" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/index.asp?tbl=04.02.01.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201\321\213 \320\270\320\267\320\274\320\265\321\200\320\265\320\275\320\270\321\217 \320\237\320\255\320\234\320\230\320\235</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L164" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=6822&amp;tbl=04.02.01.01.&amp;p=1" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\220\320\232 &quot;\320\241\320\270\320\263\321\203\321\200\320\264&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L165" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nppgamma.ru/catalog/otsenka_zashchishchennosti_po_kanalu_pemin/legenda_18/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\220\320\232 &quot;\320\233\320\265\320\263\320\265\320\275\320\264\320\260&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L166" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nelk.ru/catalog/sistemy_otsenki_zashchishchennosti_informatsii/programmno_apparatnye_kompleksy/navigator_p6m/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\220\320\232 &quot;\320\235\320\260\320\262\320\270\320\263\320\260\321\202\320\276\321\200&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L167" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L168" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/index.asp?tbl=04.01.02." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\235\320\265\320\273\320\270\320\275\320\265\320\271\320\275\321\213\320\265 \320\273\320\276\320\272\320\260\321\202\320\276\321\200\321\213</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L169" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://detektor.ru/prod/self/srch/nelinejnaya_lokaciya/nr900ems/" hyperlink="true"><Font style="Hyperlink">NR 900EM</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L170" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/dbtexts/ipks/alex0/oktava3m/okttd.htm" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\236\320\272\321\202\320\260\320\262\320\260-3\320\234</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L171" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=574&amp;tbl=04.01.02." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\236\320\272\321\202\320\260\320\262\320\260-\320\234</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L175" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L173" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="https://www.nelk.ru/upload/iblock/7eb/7eb96630f1bdbe18f931ec0bb25aafc5.pdf" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\241\320\277\321\200\321\203\321\202-7&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L176" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L177" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\234\320\265\321\202\320\260\320\273\320\273\320\276\320\270\321\201\320\272\320\260\321\202\320\265\320\273\321\214" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\234\320\265\321\202\320\260\320\273\320\273\320\276\320\264\320\265\321\202\320\265\320\272\321\202\320\276\321\200\321\213</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L178" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://divecon.net/catalog/ruchnye-metallodetektory/ruchnoy-metallodetektor-aka-7202-m/" hyperlink="true"><Font style="Hyperlink">AKA 7202M</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L179" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=2255&amp;tbl=03.02.02." hyperlink="true"><Font style="Hyperlink">ADAMS AD18</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L180" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L181" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nelk.ru/catalog/tekhnicheskie_sredstva_poiska_kanalov_utechki_informatsii/sredstva_spetsialnogo_rentgenovskogo_kontrolya/norka-160/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\237\320\276\321\200\321\202\320\260\321\202\320\270\320\262\320\275\320\260\321\217 \321\200\320\265\320\275\321\202\320\263\320\265\320\275\320\276\321\202\320\265\320\273\320\265\320\262\320\270\320\267\320\270\320\276\320\275\320\275\320\260\321\217 \321\203\321\201\321\202\320\260\320\275\320\276\320\262\320\272\320\260 &quot;\320\235\320\276\321\200\320\272\320\260&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L182" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L183" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://nppgamma.ru/catalog/tekhnicheskie_endoskopy_i_dosmotrovye_zerkala/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\276\321\201\320\274\320\276\321\202\321\200\320\276\320\262\321\213\320\265 \321\215\320\275\320\264\320\276\321\201\320\272\320\276\320\277\321\213</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L184" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L172" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L161" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
