@@ -221,11 +221,11 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L37" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217_\320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217 \320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217_\320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217 \320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L40" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="http://window.edu.ru/resource/904/76904/files/ei.pdf" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\255\320\273\320\265\320\274\320\265\320\275\321\202\320\260\321\200\320\275\321\213\320\271 \321\215\320\273\320\265\320\272\321\202\321\200\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \320\270\320\267\320\273\321\203\321\207\320\260\321\202\320\265\320\273\321\214</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="http://window.edu.ru/resource/904/76904/files/ei.pdf" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\255\320\273\320\265\320\274\320\265\320\275\321\202\320\260\321\200\320\275\321\213\320\271 \321\215\320\273\320\265\320\272\321\202\321\200\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \320\270\320\267\320\273\321\203\321\207\320\260\321\202\320\265\320\273\321\214</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L41" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -569,6 +569,30 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L115" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L134" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">2. \320\224\320\265\320\274\320\260\321\201\320\272\320\270\321\200\321\203\321\216\321\211\320\270\320\265 \320\277\321\200\320\270\320\267\320\275\320\260\320\272\320\270 \320\276\320\261\321\212\320\265\320\272\321\202\320\276\320\262</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L135" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" underline="true" layout="Normal"><Hyperlink linktarget="https://elar.urfu.ru/bitstream/10995/28779/1/978-5-7996-1120-0_2014.pdf" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\220\320\235\320\220\320\233\320\230\320\227 \320\224\320\225\320\234\320\220\320\241\320\232\320\230\320\240\320\243\320\256\320\251\320\230\320\245 \320\237\320\240\320\230\320\227\320\235\320\220\320\232\320\236\320\222 \320\236\320\221\320\252\320\225\320\232\320\242\320\236\320\222 \320\230\320\235\320\244\320\236\320\240\320\234\320\220\320\242\320\230\320\227\320\220\320\246\320\230\320\230 \320\230 \320\242\320\225\320\245\320\235\320\230\320\247\320\225\320\241\320\232\320\230\320\245 \320\232\320\220\320\235\320\220\320\233\320\236\320\222 \320\243\320\242\320\225\320\247\320\232\320\230 \320\230\320\235\320\244\320\236\320\240\320\234\320\220\320\246\320\230\320\230</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L136" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\224\320\265\320\274\320\260\321\201\320\272\320\270\321\200\321\203\321\216\321\211\320\270\320\265 \320\277\321\200\320\270\320\267\320\275\320\260\320\272\320\270 \320\276\320\261\321\212\320\265\320\272\321\202\320\276\320\262 \320\262 \320\262\320\270\320\264\320\270\320\274\320\276\320\274 \320\264\320\270\320\260\320\277\320\260\320\267\320\276\320\275\320\265 \321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\274\320\260\320\263\320\275\320\270\321\202\320\275\320\276\320\263\320\276 \321\201\320\277\320\265\320\272\321\202\321\200\320\260</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L137" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://studfile.net/preview/994677/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\265\320\274\320\260\321\201\320\272\320\270\321\200\321\203\321\216\321\211\320\270\320\265 \320\277\321\200\320\270\320\267\320\275\320\260\320\272\320\270 \320\276\320\261\321\212\320\265\320\272\321\202\320\276\320\262 \320\262 \320\270\320\275\321\204\321\200\320\260\320\272\321\200\320\260\321\201\320\275\320\276\320\274 \320\264\320\270\320\260\320\277\320\260\320\267\320\276\320\275\320\265 \321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\274\320\260\320\263\320\275\320\270\321\202\320\275\320\276\320\263\320\276 \321\201\320\277\320\265\320\272\321\202\321\200\320\260</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L138" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://poisk-ru.ru/s50627t5.html" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\265\320\274\320\260\321\201\320\272\320\270\321\200\321\203\321\216\321\211\320\270\320\265 \320\277\321\200\320\270\320\267\320\275\320\260\320\272\320\270 \321\200\320\260\320\264\320\270\320\276\321\215\320\273\320\265\320\272\321\202\321\200\320\276\320\275\320\275\321\213\321\205 \321\201\321\200\320\265\320\264\321\201\321\202\320\262</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L139" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block>
