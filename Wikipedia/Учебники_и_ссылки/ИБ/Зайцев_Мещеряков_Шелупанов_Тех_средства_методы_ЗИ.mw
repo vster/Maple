@@ -1189,6 +1189,18 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L305" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true" encoding="UTF-8">7. \320\242\320\265\321\205\320\275\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \320\272\320\276\320\275\321\202\321\200\320\276\320\273\321\214 \321\215\321\204\321\204\320\265\320\272\321\202\320\270\320\262\320\275\320\276\321\201\321\202\320\270 \320\267\320\260\321\211\320\270\321\202\321\213 \320\270\320\275\321\204\320\276\321\200\320\274\320\260\321\206\320\270\320\270</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L313" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://files.stroyinf.ru/Data2/1/4294835/4294835737.pdf" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\236\320\241\320\242 16842</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L314" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://internet-law.ru/gosts/gost/44473/" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\236\320\241\320\242 11001</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L315" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
