@@ -221,11 +221,11 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L37" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217_\320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217 \320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217_\320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\243\321\200\320\260\320\262\320\275\320\265\320\275\320\270\321\217 \320\234\320\260\320\272\321\201\320\262\320\265\320\273\320\273\320\260</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L40" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="http://window.edu.ru/resource/904/76904/files/ei.pdf" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\255\320\273\320\265\320\274\320\265\320\275\321\202\320\260\321\200\320\275\321\213\320\271 \321\215\320\273\320\265\320\272\321\202\321\200\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \320\270\320\267\320\273\321\203\321\207\320\260\321\202\320\265\320\273\321\214</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
+<Input><Text-field style="Text" bold="true" italic="true" layout="Normal"><Hyperlink linktarget="http://window.edu.ru/resource/904/76904/files/ei.pdf" hyperlink="true"><Font style="Hyperlink" bold="true" encoding="UTF-8" italic="true">\320\255\320\273\320\265\320\274\320\265\320\275\321\202\320\260\321\200\320\275\321\213\320\271 \321\215\320\273\320\265\320\272\321\202\321\200\320\270\321\207\320\265\321\201\320\272\320\270\320\271 \320\270\320\267\320\273\321\203\321\207\320\260\321\202\320\265\320\273\321\214</Font></Hyperlink><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L41" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -313,7 +313,7 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L271" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYsLUkjbWlHRiQ2JlEiSUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JJm1mcmFjR0YkNigtSSNtbkdGJDYlUSIxRidGMkY8LUYjNiYtRiw2JlEiVEYnRi9GMkY1Ri9GMkY1LyUubGluZXRoaWNrbmVzc0dGVy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zbby8lKWJldmVsbGVkR0Y0LUkobXN1YnN1cEdGJDYnLUY5Ni5RKyZJbnRlZ3JhbDtGJ0YyRjwvRj9RJnVuc2V0RicvRkFGZ28vRkNGMS9GRUZnby9GR0YxL0ZJRmdvL0ZLRmdvL0ZNUSYwLjBlbUYnL0ZQRl9wLUYjNigtRiw2JlEidEYnRi9GMkY1Ri8vJStmb3JlZ3JvdW5kR1EsWzIwMCwwLDIwMF1GJ0YyLyUscGxhY2Vob2xkZXJHRjFGNS1GIzYoRmNwLUY5Ni5RIitGJ0YyRjxGPkZARkJGREZGRkhGSi9GTVEsMC4yMjIyMjIyZW1GJy9GUEZhcUZaRi9GMkY1LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy8lL3N1YnNjcmlwdHNoaWZ0R0ZlcS1GUjYoLUYjNiYtRjk2LlEwJkRpZmZlcmVudGlhbEQ7RidGMkY8RmZvRmhvL0ZDRmdvRmpvL0ZHRmdvRlxwRl1wRl5wRmBwLUYsNiZRIlBGJ0YvRjJGNUYyRjwtRiM2JkZcci1GLDYmUSJTRidGL0YyRjVGMkY8RmduRmluRlxvRl5vLUY5Ni5RIn5GJ0YyRjxGPkZARkJGREZGRkhGSkZecEZgcEZcckZjcEYyRjw=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYsLUkjbWlHRiQ2JlEiSUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JJm1mcmFjR0YkNigtSSNtbkdGJDYlUSIxRidGMkY8LUYjNiYtRiw2JlEiVEYnRi9GMkY1Ri9GMkY1LyUubGluZXRoaWNrbmVzc0dGVy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zbby8lKWJldmVsbGVkR0Y0LUkobXN1YnN1cEdGJDYnLUY5Ni5RKyZJbnRlZ3JhbDtGJ0YyRjwvRj9RJnVuc2V0RicvRkFGZ28vRkNGMS9GRUZnby9GR0YxL0ZJRmdvL0ZLRmdvL0ZNUSYwLjBlbUYnL0ZQRl9wLUYjNigtRiw2JlEidEYnRi9GMkY1Ri8vJStmb3JlZ3JvdW5kR1EsWzIwMCwwLDIwMF1GJ0YyLyUscGxhY2Vob2xkZXJHRjFGNS1GIzYoRmNwLUY5Ni5RIitGJ0YyRjxGPkZARkJGREZGRkhGSi9GTVEsMC4yMjIyMjIyZW1GJy9GUEZhcUZaRi9GMkY1LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy8lL3N1YnNjcmlwdHNoaWZ0R0ZlcS1GUjYoLUYjNiYtRjk2LlEwJkRpZmZlcmVudGlhbEQ7RidGMkY8RmZvRmhvL0ZDRmdvRmpvL0ZHRmdvRlxwRl1wRl5wRmBwLUYsNiZRIlBGJ0YvRjJGNUYyRjwtRiM2JkZcci1GLDYmUSJTRidGL0YyRjVGMkY8RmduRmluRlxvRl5vLUY5Ni5RIn5GJ0YyRjxGPkZARkJGREZGRkhGSkZecEZgcEZcckZjcEYyRjw=</Equation> <Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYsLUkjbWlHRiQ2JlEiSUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JJm1mcmFjR0YkNigtSSNtbkdGJDYlUSIxRidGMkY8LUYjNiYtRiw2JlEiVEYnRi9GMkY1Ri9GMkY1LyUubGluZXRoaWNrbmVzc0dGVy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zbby8lKWJldmVsbGVkR0Y0LUkobXN1YnN1cEdGJDYnLUY5Ni5RKyZJbnRlZ3JhbDtGJ0YyRjwvRj9RJnVuc2V0RicvRkFGZ28vRkNGMS9GRUZnby9GR0YxL0ZJRmdvL0ZLRmdvL0ZNUSYwLjBlbUYnL0ZQRl9wLUYjNigtRiw2JlEidEYnRi9GMkY1Ri8vJStmb3JlZ3JvdW5kR1EsWzIwMCwwLDIwMF1GJ0YyLyUscGxhY2Vob2xkZXJHRjFGNS1GIzYoRmNwLUY5Ni5RIitGJ0YyRjxGPkZARkJGREZGRkhGSi9GTVEsMC4yMjIyMjIyZW1GJy9GUEZhcUZaRi9GMkY1LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy8lL3N1YnNjcmlwdHNoaWZ0R0ZlcS1GUjYoLUYjNiYtRjk2LlEwJkRpZmZlcmVudGlhbEQ7RidGMkY8RmZvRmhvL0ZDRmdvRmpvL0ZHRmdvRlxwRl1wRl5wRmBwLUYsNiZRIlBGJ0YvRjJGNUYyRjwtRiM2JkZcci1GLDYmUSJTRidGL0YyRjVGMkY8RmduRmluRlxvRl5vLUY5Ni5RIn5GJ0YyRjxGPkZARkJGREZGRkhGSkZecEZgcEZcckZjcEYyRjw=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYsLUkjbWlHRiQ2JlEiSUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JJm1mcmFjR0YkNigtSSNtbkdGJDYlUSIxRidGMkY8LUYjNiYtRiw2JlEiVEYnRi9GMkY1Ri9GMkY1LyUubGluZXRoaWNrbmVzc0dGVy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zbby8lKWJldmVsbGVkR0Y0LUkobXN1YnN1cEdGJDYnLUY5Ni5RKyZJbnRlZ3JhbDtGJ0YyRjwvRj9RJnVuc2V0RicvRkFGZ28vRkNGMS9GRUZnby9GR0YxL0ZJRmdvL0ZLRmdvL0ZNUSYwLjBlbUYnL0ZQRl9wLUYjNigtRiw2JlEidEYnRi9GMkY1Ri8vJStmb3JlZ3JvdW5kR1EsWzIwMCwwLDIwMF1GJ0YyLyUscGxhY2Vob2xkZXJHRjFGNS1GIzYoRmNwLUY5Ni5RIitGJ0YyRjxGPkZARkJGREZGRkhGSi9GTVEsMC4yMjIyMjIyZW1GJy9GUEZhcUZaRi9GMkY1LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy8lL3N1YnNjcmlwdHNoaWZ0R0ZlcS1GUjYoLUYjNiYtRjk2LlEwJkRpZmZlcmVudGlhbEQ7RidGMkY8RmZvRmhvL0ZDRmdvRmpvL0ZHRmdvRlxwRl1wRl5wRmBwLUYsNiZRIlBGJ0YvRjJGNUYyRjwtRiM2JkZcci1GLDYmUSJTRidGL0YyRjVGMkY8RmduRmluRlxvRl5vLUY5Ni5RIn5GJ0YyRjxGPkZARkJGREZGRkhGSkZecEZgcEZcckZjcEYyRjw=</Equation> <Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L272" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -1144,6 +1144,10 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L311" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\321\201\320\272\321\213 \320\264\320\273\321\217 \320\277\321\200\320\276\320\262\320\265\320\264\320\265\320\275\320\270\321\217 \320\241\320\230 \320\260\320\272\321\203\321\201\321\202\320\270\321\207\320\265\321\201\320\272\320\270\321\205 \320\242\320\232\320\243\320\230</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L297" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://lib.itsec.ru/articles2/Oborandteh/tehnologii-zaschischennogo-zvuka" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\242\321\200\320\260\320\277&quot;</Font></Hyperlink></Text-field>
 </Input>
@@ -1168,8 +1172,40 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L312" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201\321\213 \320\264\320\273\321\217 \320\277\321\200\320\276\320\262\320\265\320\264\320\265\320\275\320\270\321\217 \320\241\320\230 \320\237\320\255\320\234\320\230\320\235</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L308" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=5823&amp;tbl=04.02.01.01." hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\233\320\265\320\263\320\265\320\275\320\264\320\260&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L309" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="http://www.bnti.ru/des.asp?itm=6822&amp;tbl=04.02.01.01.&amp;p=1" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\276\320\274\320\277\320\273\320\265\320\272\321\201 &quot;\320\241\320\270\320\263\321\203\321\200\320\264&quot;</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L304" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L305" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L306" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L307" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L295" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L303" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
 </Input>
 </Group></Presentation-Block>
 </Worksheet>
