@@ -527,5 +527,113 @@
 <Group view="presentation" inline-output="false" labelreference="L122" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L127" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L123" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font size="14" bold="true" encoding="UTF-8">\320\237\320\273\320\260\320\275\320\265\321\202\320\260 \320\227\320\265\320\274\320\273\321\217</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L124" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L125" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\235\320\265\320\261\321\203\320\273\321\217\321\200\320\275\320\260\321\217_\320\263\320\270\320\277\320\276\321\202\320\265\320\267\320\260" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\242\320\265\320\276\321\200\320\270\321\217 \321\201\320\276\320\273\320\275\320\265\321\207\320\275\320\276\320\271 \321\202\321\203\320\274\320\260\320\275\320\275\320\276\321\201\321\202\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L126" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\262\320\265\320\264\320\265\320\275\320\261\320\276\321\200\320\263,_\320\255\320\274\320\274\320\260\320\275\321\203\320\270\320\273" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\241\320\262\320\265\320\264\320\265\320\275\320\261\320\276\321\200\320\263, \320\255\320\274\320\274\320\260\320\275\321\203\320\270\320\273</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L128" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\232\320\260\320\275\321\202,_\320\230\320\274\320\274\320\260\320\275\321\203\320\270\320\273" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\232\320\260\320\275\321\202, \320\230\320\274\320\274\320\260\320\275\321\203\320\270\320\273</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L129" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\233\320\260\320\277\320\273\320\260\321\201,_\320\237\321\214\320\265\321\200-\320\241\320\270\320\274\320\276\320\275" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\233\320\260\320\277\320\273\320\260\321\201, \320\237\321\214\320\265\321\200-\320\241\320\270\320\274\320\276\320\275</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L130" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L131" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\242\320\265\320\276\321\200\320\270\321\217_\320\264\321\200\320\265\320\271\321\204\320\260_\320\274\320\260\321\202\320\265\321\200\320\270\320\272\320\276\320\262" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\242\320\265\320\276\321\200\320\270\321\217 \320\264\321\200\320\265\320\271\321\204\320\260 \320\274\320\260\321\202\320\265\321\200\320\270\320\272\320\276\320\262</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L132" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\222\320\265\320\263\320\265\320\275\320\265\321\200,_\320\220\320\273\321\214\321\204\321\200\320\265\320\264" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\222\320\265\320\263\320\265\320\275\320\265\321\200, \320\220\320\273\321\214\321\204\321\200\320\265\320\264</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L133" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L134" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\227\320\265\320\274\320\273\321\217-\321\201\320\275\320\265\320\266\320\276\320\272" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\227\320\265\320\274\320\273\321\217-\321\201\320\275\320\265\320\266\320\276\320\272</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L135" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://en.wikipedia.org/wiki/Joseph_Kirschvink" hyperlink="true"><Font style="Hyperlink" encoding="UTF-8">\320\224\320\266\320\276\320\267\320\265\321\204 \320\232\320\270\321\200\321\210\320\262\320\270\320\275\320\272</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L136" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L139" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\273\320\276\320\261\320\260\320\273\321\214\320\275\320\276\320\265_\320\277\320\276\321\202\320\265\320\277\320\273\320\265\320\275\320\270\320\265" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\223\320\273\320\276\320\261\320\260\320\273\321\214\320\275\320\276\320\265 \320\277\320\276\321\202\320\265\320\277\320\273\320\265\320\275\320\270\320\265</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L140" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\220\321\200\321\200\320\265\320\275\320\270\321\203\321\201,_\320\241\320\262\320\260\320\275\321\202\320\265_\320\220\320\262\320\263\321\203\321\201\321\202" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\220\321\200\321\200\320\265\320\275\320\270\321\203\321\201, \320\241\320\262\320\260\320\275\321\202\320\265 \320\220\320\262\320\263\321\203\321\201\321\202</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L141" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L142" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\242\320\265\320\276\321\200\320\270\321\217_\320\272\320\260\321\202\320\260\321\201\321\202\321\200\320\276\321\204" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\242\320\265\320\276\321\200\320\270\321\217 \320\272\320\260\321\202\320\260\321\201\321\202\321\200\320\276\321\204</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L143" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\232\321\216\320\262\321\214\320\265,_\320\226\320\276\321\200\320\266_\320\233\320\265\320\276\320\277\320\276\320\273\321\214\320\264" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\232\321\216\320\262\321\214\320\265, \320\226\320\276\321\200\320\266 \320\233\320\265\320\276\320\277\320\276\320\273\321\214\320\264</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L144" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\265\321\202\321\202\320\276\320\275,_\320\224\320\266\320\265\320\271\320\274\321\201" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\265\321\202\321\202\320\276\320\275, \320\224\320\266\320\265\320\271\320\274\321\201</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L145" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\233\320\260\320\271\320\265\320\273\321\214,_\320\247\320\260\321\200\320\273\320\267" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\233\320\260\320\271\320\265\320\273\321\214, \320\247\320\260\321\200\320\273\320\267</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L146" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L147" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\270\320\277\320\276\321\202\320\265\320\267\320\260_\320\223\320\265\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\223\320\270\320\277\320\276\321\202\320\265\320\267\320\260 \320\223\320\265\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L148" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\233\320\260\320\262\320\273\320\276\320\272,_\320\224\320\266\320\265\320\271\320\274\321\201" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\233\320\260\320\262\320\273\320\276\320\272, \320\224\320\266\320\265\320\271\320\274\321\201</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L150" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L151" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\223\320\270\320\277\320\276\321\202\320\265\320\267\320\260_\321\203\320\275\320\270\320\272\320\260\320\273\321\214\320\275\320\276\320\271_\320\227\320\265\320\274\320\273\320\270" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" encoding="UTF-8">\320\223\320\270\320\277\320\276\321\202\320\265\320\267\320\260 \321\203\320\275\320\270\320\272\320\260\320\273\321\214\320\275\320\276\320\271 \320\227\320\265\320\274\320\273\320\270</Font></Hyperlink></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L152" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"></Text-field>
+</Input>
 </Group></Presentation-Block>
 </Worksheet>
