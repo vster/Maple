@@ -89,7 +89,7 @@
 </Task-table>
 <Task/><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L1" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" bold="true" layout="Normal"><Font bold="true" encoding="UTF-8">\320\241\320\270\320\274\320\262\320\276\320\273\321\213 \320\232\321\200\320\270\321\201\321\202\320\276\321\204\321\204\320\265\320\273\321\217</Font></Text-field>
+<Input><Text-field style="Text" bold="true" layout="Normal"><Hyperlink linktarget="https://ru.wikipedia.org/wiki/\320\241\320\270\320\274\320\262\320\276\320\273\321\213_\320\232\321\200\320\270\321\201\321\202\320\276\321\204\321\204\320\265\320\273\321\217" hyperlink="true" encoding="UTF-8"><Font style="Hyperlink" bold="true" encoding="UTF-8">\320\241\320\270\320\274\320\262\320\276\320\273\321\213 \320\232\321\200\320\270\321\201\321\202\320\276\321\204\321\204\320\265\320\273\321\217</Font></Hyperlink></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" hide-output="false" inline-output="false" labelreference="L642" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
