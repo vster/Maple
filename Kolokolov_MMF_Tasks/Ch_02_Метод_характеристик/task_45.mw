@@ -100,6 +100,10 @@
 <Input><Text-field style="Text" layout="Normal"></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" inline-output="false" labelreference="L1024" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">#45</Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L965" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal"><Font encoding="UTF-8">\320\260)</Font></Text-field>
 </Input>
